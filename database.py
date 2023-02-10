@@ -70,6 +70,10 @@ def update_database(table, state = "insert", data = None, id = None, que = None,
 
         # Inserts new data provided in argument into database
         if state == "add":
+            if data == None:
+                print("Please specify data to add to database")
+                return
+            
             for qset in data:
                 insert_value = (qset.question, qset.answer)
                 cursor.execute(f"INSERT into {table} (question, answer) VALUES (?, ?);", insert_value)
@@ -112,4 +116,6 @@ train_qset2 = "training/qset2.txt"
 """needs fixing (109, 175, 20)"""
 
 #collation(unrefined=[train_qset2])
-update_database(table="QA_Pair_Train")
+update_database(table="QA_Pair_Train", id=186)
+
+
