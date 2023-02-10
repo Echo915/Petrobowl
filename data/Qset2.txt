@@ -1,0 +1,462 @@
+1 In what year did offshore drilling start, if offshore is defined as a large body of open water? 
+1897
+2 With respect to drilling bits, what does P D C stand for? 
+Polycrystalline Diamond Compact
+3 What does the normal pressure correspond to?
+Hydrostatic pressure of local fresh or saline water
+4 State one assumption of the Arps decline curve.
+Pseudo-steady state flow regime, Constant operating conditions 
+5 List one of the types of decline curves.
+Exponential, Hyperbolic, Harmonic
+6 List one of the potential indicators of a kick. 
+Lost circulation, Swabbing, Improper hole fill-up during trips, Insufficient mud, weight
+7 Name the two-phase flow correlation that was developed for vertical, upward flow and recommended only for near-vertical wellbores.
+Hagedorn and Brown 
+8 The mud supported limestone with more than 10% grains is classified as what? 
+Wackestone 
+9 Name one of the two commonly used porosity-resistivity crossplots used in deriving formation water resistivity.
+Hingle plot, Pickett plot
+10 For a conventional drill pipe, how would the tool joint diameter be compared to the pipe body? 
+Larger diameter than pipe body
+11 What is the most commonly used measure of formation damage in a well? 
+Skin factor
+12 In which year did Standing introduced the important concept of well flow efficiency? 
+1970
+13 What is one of the diagnostic tools to evaluate or identify skin? 
+Well testing
+14 What is used to estimate the impact of skin on well productivity? 
+I P Rs 
+15 What is the most common method for determining skin? 
+Pressure-buildup test 
+16 List one of the two broad classes of formation damage mechanisms 
+Near-wellbore perm reduction, Near-wellbore relperm changes
+17 The water droplets in O B Ms are stabilized by what? 
+Emulsifiers and organophilic clays
+18 The use of improper mixing procedures in dissolving polymers into brines results in the formation of what?
+Fish eyes / unhydrated aggregates of polymer
+19 Which well type is more susceptible to formation damage? 
+Horizontal wells
+20 List one of the primary reasons why water is commonly injected into formations.
+Pressure maintenance, Water disposal, Water flooding
+21 What is expected to cause large persistent drops in injectivity in injection wells? 
+Inorganic scales
+22 List one of the types of roller cone cutting structures.
+Milled tooth, Tungsten carbide
+23 Name the type of fixed cutter bit that has twice the diamond thickness of conventional P D C cutters.
+Conical diamond element (C D E)
+24 Which type of bits are hollow in the center to permit cylindrical rock sample to be collected in a barrel mounted above the bit? 
+Coring bits
+25 In which year was the first well log obtained? 
+1927
+26 In which field was the first well log obtained? 
+Pechelbronn field in Alsace, France
+27 Name the tertiary drive mechanism that uses alternating injections of water and gas.
+W A G
+28 What method is used to lower the producing B H P on the formation to obtain a higher production rate from the well? 
+Artificial lift
+29 List one type of artificial lift method.
+Sucker-rod (beam) ,pumping ,E S P, Gas Lift, Reciprocating and jet, hydraulic pumping
+30 Which artificial lift method is appropriate for pumping solids and viscous oils in deviated wells?
+Electrical submersible progressive cavity pump (E S P C P)
+31 Natural gas that contains hydrogen sulfide is termed as what? 
+Sour gas
+32 What is acid gas made up of? 
+C O2 and H2 S
+33 Which equipment performs the important function of separating the fluid phases on the basis of density difference between the liquid and the gas?
+Inlet separator
+34 What occurs when gas is mechanically entrained in liquid as bubbles whiles treating sour gas? 
+Solution Foaming
+35 List one of the glycols that is used in removing water vapor from natural gas or in depressing hydrate formation temperature.
+Ethylene Glycol, Diethylene glycol, Triethylene glycol, Tetra ethylene glycol
+36 The process of cooling natural gas by expanding high pressure gas to a lower pressure across an expansion valve is known as what?
+Joule-Thompson Expansion
+37 List one material that is used as a solid adsorbent.
+Silica gel, Sorbed, Alumina, Molecular sieves
+38 Which process can be used to control the water content as well as remove heavier hydrocarbons from natural gas?
+Short-cycle dry desiccant process
+39 What is the generally preferred adsorbent for short-cycle dry desiccant process? 
+Silica gel 
+40 What is formed when free water and natural gas combine at high pressure and low temperature? 
+Natural gas hydrates
+41 What is used as a highly effective means for near-wellbore shutoff of excess water? 
+Rigid gels
+42 A pressure vessel used for separating a well stream into gaseous and liquid component is referred to as what?
+Separator
+43List one classification of separators based in its function. 
+Primary phase, separator,Test separator, High-pressure separator, Low-pressure separator
+44 According to process requirements the separators are divided in stages, which stage is used for further treatment of each individual fluid phase?
+Second stage separator
+45 Which separator or pressure vessel type is used to remove contaminated gas bubbles from the bulk liquid stream?
+Degasser
+46 Which separator or pressure vessel type is used to remove dispersed droplets from a bulk gas stream?
+Deliqulizer
+47 What leads to short-circuiting of the flow distribution zone? 
+Poor separation efficiency
+48 List one component of a separator. 
+Inlet device, Baffles, Mist extractor, Vortex breaker 
+49 Which separator component is used to reduce the liquid content in the bulk gas stream?
+Mist extractor
+50 Which separator component is used to prevent gas carryunder at the outlet of the liquid phase?
+Vortex breaker
+51 In the context of Facilities, what does F W K O stand for? 
+Free water knockout
+52 Typically, what type of treater is a Bulk oil treater (B O T)? 
+Electrostatic treater
+53 What orientation type is suitable for a foaming crude? 
+Horizontal
+54 Which separator type provides more surface area for bubbles to escape?
+Horizontal separators
+55 List one functional zone that a separator is generally divided into. 
+Inlet, Flow distribution, Gravity separation/coalescing Outlet 
+56 Which separator zone provides the initial bulk separation of liquid and gas?
+Inlet zone
+57 List one type of inlet devices in a separator. 
+Flat impact plates, Dished-head plates, Half-open pipes, Vane-type inlet, Cyclone-cluster inlet
+58 List one type of mist elimination equipment. 
+Mesh, Vanes, Cyclones, Fibre-beds
+59 List one factor that affects separation performance? 
+Flow rates, Fluid properties, Vessel configuration, Internals, Control system
+60 What is the industry standard time required to close subsea B O P rams?
+45 seconds
+61 What is the industry standard time required to close subsea annulars?
+60 seconds
+62 Which company wrote the first rules and regulations for offshore M O D Us?
+A B S
+63 Name the two-and-half year survey that is carried out so that the M O D U does not fall out of classification. 
+U W I L D
+64 Name the M O D U that is now a museum and training platform in Morgan City, Louisiana.
+Mr Charlie
+65 Which floating M O D U design makes it very capable work platform in severe environments?
+Semi-submersibles
+66 Which M O D U has become the premier bottom-founded drilling unit, displacing submersibles, and most platform units?
+Jackups
+67 Which year was subsea well control first used by a floating drilling rig?
+1955
+68 Name the alternative to moored-M O D U's. 
+D P Units
+69 Name one of the basic types of Jackups. 
+Independent-leg type, Mat type
+70 What is critical and a major design consideration in Jackups and Semis when rated for environmental consideration?
+Air gap
+71 Which M O D Us are classified as the technological forerunners and pioneers in the offshore industry?
+Ultradeepwater units
+72 Which body has developed rules and guidelines to measure safety through L T Is, non-L T Is, first aid, and near misses?
+I A D C
+73 What equipment’s primary purpose is to guide objects in and out of the wellbore while also serving as a return conduit for drilling fluids and cuttings?
+Flex joint
+74 Which equipment at the top of the B O P stack is a pivot point that reduce stresses in the riser and acts as a hinge point?
+Slip or Telescopic joint
+75 Which tool/equipment allows the vertical motion between a floating M O D U and a B O P stack and marine riser?
+Riser tensioners
+76 What assembly is used to divert fluids returning from the wellbore and is attached to the rigs substructure above the inner barrel of the slip joint?
+Diverter 
+77 What document is required between the Operator's and Drilling contractor's policy and procedures manuals to eliminate confusion?
+Bridging document
+78 What country is the largest producer of hydrogen? 
+China
+79 What acts as a major blockage risk in oil and gas production flowlines?
+Gas hydrate
+80 What is the most common and cost-effective method for wax deposition remediation in pipelines?
+Pigging
+81 The process where directional wells are steered on the intended trajectory as prescribed on the well plan without rotating the drill string from surface is known as what?
+Sliding
+82 The process where the well trajectory is intended to remain relatively straight, and the entire drill string is rotated from surface is known as what?
+Rotating
+83 Which country was the largest consumer of energy in North America in the year 2020?
+U S A
+84 Name the largest consumer of energy in South and Central America in 2020.
+Brazil 
+85 Name the second largest consumer of energy in South and Central America in 2020.
+Argentina
+86 Name the third largest consumer of energy in South and Central America in 2020.
+Venezuela
+87 Which country was the largest consumer of energy in Europe in the year 2020?
+Germany
+88 Name highest energy consuming country in Europe in 2020. 
+Germany 
+89 Name second highest energy consuming country in Europe in 2020. 
+France
+90 Name second highest energy consuming country in Europe in 2020. 
+U K 
+91 Which country was the lowest consumer of energy in North America in 2020?
+Mexico
+92 Name the largest consumers of energy in Middle East in 2020. 
+Iran
+93 Name the second largest consumers of energy in Middle East in 2020. 
+Saudi Arabia
+94 Name the third largest consumers of energy in Middle East in 2020. 
+United Arab Emirates
+95 Which country was the lowest consumer of energy in Middle East in 2020?
+Israel
+96 Name the highest consumer of energy in Africa in 2020. 
+South Africa
+97 Name the second highest consumer of energy in Africa in 2020. 
+Algeria
+98 Name the second highest consumer of energy in Africa in 2020. 
+Egypt
+99 Which country was the lowest consumer of energy in Africa in 2020? 
+Morocco
+100 Which country was the highest consumer of energy in Asia pacific in 2020?
+Singapore
+101 Name the highest energy consuming country in Asia pacific in 2020? 
+Singapore
+102 Name the second highest energy consuming country in Asia pacific in 2020?
+South Korea
+103 Name the third highest energy consuming country in Asia pacific in 2020?
+Australia
+104 Which country was the lowest consumer of energy in Asia pacific in 2020?
+Bangladesh
+105 Which country had the highest proved oil reserves in North America in 2019?
+Canada
+106 What is the total number of proved oil reserves in US in 2020? 
+68.8k MMbbl
+107 What is the total number of proved oil reserves in Canada in 2020? 
+168.1k MMbbl
+108 Which country had the highest proved oil reserves in South and Central America in 2020?
+Venezuela
+109 Which country had the lowest proved oil reserves in North America in 2020?
+Mexico
+111 Which country in Europe had the highest proved oil reserves in 2019? 
+United Kingdom
+112 Which countries in Europe had the highest proved oil reserves in 2020? 
+Norway and United Kingdom
+113 Which country had the highest proved oil reserves in middle east in 2020?
+Saudi Arabia
+114 What was the total number of proved oil reserves in Saudi Arabia in 2020?
+297.5k MMbbl
+115 Which country had the lowest proved oil reserves in Middle East in 2020?
+Yemen
+116 Name the first country in Africa with the highest proved oil reserves in 2019?
+Libya
+117 Name the second country in Africa with the highest proved oil reserves in 2019?
+Nigeria
+118 Name the first country in Africa with the highest proved oil reserves in 2020?
+Libya
+119 Which country had the lowest proves oil reserves in Africa in 2020? 
+Tunisia
+120 Name the fourth country in Africa with the highest proved oil reserves in 2019?
+Angola
+121 What was the total number of proved oil reserves in Gabon in 2020? 
+2.0k MMbbl
+122 What was the total number of proved oil reserves in Tunisia in 2020? 
+0.4k MMbbl
+123 What was the total number of proved oil reserves in Algeria in 2019? 
+12.2k MMbbl
+124 What was the total number of oil production (bbls/day) produced by Nigeria in 2020?
+1,798k bopd
+125 Which country in Africa had the highest oil production in 2018? 
+Nigeria
+126 Name the fourth country in Africa with the highest proved oil reserves in 2019?
+2,007k bopd
+127 Which country in Africa had the lowest oil production in 2019? 
+Tunisia
+128 Name the second country in Africa that had the highest oil production in 2019?
+Algeria
+129 What was the total number of oil production (bbls/day) produced by Egypt in 2020?
+616k bopd
+130 What was the total number of oil production (bbls/day) produced by Libya in 2020?
+390k bopd
+131 What was the average price of brent crude in 2020? 
+$41.84 
+132 Which country had the highest proved gas reserves in North America in 2020?
+USA
+133 Which country had the lowest proved gas reserves in North America in 2020?
+Mexico
+134 What was the total number of proved gas reserves in US in 2020? 
+12.6 Tm3 or 445.6Tft3
+135 What was the total number of proved gas reserves in Canada in 2020? 
+2.4 Tm3 or 83.1 Tft3
+136 What was the total number of proved gas reserves in Saudi Arabia in 2020?
+6.0 Tm3 or 212 Tft3
+137 Which country had the highest proved gas reserves in the Middle East in 2020?
+Iran
+138 Which country had the lowest proved gas reserves in the Middle East in 2020?
+Bahrain
+139 What was the total number of proved gas reserves in Iran in 2020? 
+32.1 Tm3 or 1,133.6 Tft3
+140 Which country had the highest proved gas reserves in Africa in 2020? 
+Nigeria
+141 Which country had the lowest proved gas reserves in Africa in 2020? 
+Libya
+142 What was the total number of proved gas reserves in Libya in 2020? 
+1.4 Tm3 or 50.5 Tft3
+143 What was the total number of proved gas reserves in Egypt in 2020? 
+2.1 Tm3 or 75.5 Tft3
+144 Which country in North America had the lowest natural gas productionin 2019?
+Mexico
+145 Which country in North America had the highest natural gas productionin 2020?
+U S A
+146 Which country in Africa had the lowest natural gas production in 2019? 
+Libya
+147 Which country in Africa had the highest natural gas production in 2019?
+Algeria
+148 What was the total number of natural gas production in Egypt in 2020? 
+58.5 Bm3
+149 What was the total number of natural gas production in Nigeria in 2020?
+49.4 Bm3
+150 What was the total number of natural gas production in Algeria in 2020?
+81.5 Bm3 
+151 What is the permanently frozen subsoil that lies below the upper layer of soil in arctic regions known as? 
+Permafrost
+152 What is the specified pH of buffer solutions for calibrating of a pH meter? 
+4, 7, and 10
+153 Which colour does a phenolphthalein pH indicator shows when it is above a pH of 8.3? 
+Red
+154 Polyphosphates are polymers made from various orthophosphates by dehydration with what? 
+Heat
+155 Which concept is used to formulate pilot test samples? 
+Barrel equivalent
+156 What are most drilling muds characterized as? P
+lastic or pseudoplastic fluids
+157 A non-Newtonian fluid that requires a finite shear stress to start and maintain flow is known as?
+Plastic fluid
+158 Pertaining to power-law fluids, what does the symbol K refer to? 
+Consistency
+159 What is the density of water at 60°F (16°C)? 
+8.33ppg
+160 The slope of shear stress and shear rate line above the yield point is known as what?
+Plastic viscosity
+161 What effects on viscosity and density must be understood to develop density and hydraulics programs of fluids?
+P V T effects
+162 What does a loose filter cake formed on sands and can quickly become very thick cause?
+Differential sticking
+163 Which pit is used to store spare or waste mud, base oil, or brine? 
+Reserve mud pit
+164 What additive is used to improve filter cake, provide lubricity, or stop lost circulation?
+Resins
+165 Which situation indicates that mud is partially or fully being lost into weak, fractured, or vulgar formations?
+Lost returns
+166 What is the basis for slurry design calculations and is a unit of measure of Portland cement?
+Sack
+167 What effect does saltwater contamination has on the bentonite clay in fresh or seawater muds?
+Flocculation
+168 What is the permanently frozen subsoil that lies below the upper layer of soil in arctic regions known as?
+Permafrost
+169 Name one naturally occurring polymer. Xantham gum 
+Guar gum, Starch
+170 What is the most widely accepted water mud system for drilling, water-sensitive shales, especially hard, brittle shales?
+Potassium mud
+172 Name one type of Packer used in the oil industry? 
+Compression set, Drillable, Hookwall, Inflatable, Hydraulic packer
+173 What is the area of the rock adjacent to the perforation tunnel where permeability may be 50% less than initial, undamaged permeability?
+Crush Zone
+174 What term describes the difference between average reservoir pressure and the flowing bottomhole pressure.
+Drawdown
+175 Which rubber or plastic material is mostly used as a seal? 
+Elastomer
+176 What would be the pressure in a black oil reservoir at discovery? 
+≥ Bubble point pressure
+177 In offshore operations, what does FPSO stand for? 
+Floating Production, Storage, and Offloading Vessel
+178 What is the unused world oil production capacity called? 
+Spare Capacity
+179 What company is considered the world leader in deep-offshore production?
+Petrobras
+180 What are the two possible ways single phase flow can be characterized?
+Laminar or Turbulent
+181 What type of flow has a parabolic velocity profile? 
+Laminar
+182 In two phase flow what is hold up? 
+Lighter phase flows faster than the denser phase
+183 Name the type of flow in which bubbles of gas are dispersed in a continuous liquid phase.
+Bubble flow
+184 Which type of flow have its coalesced bubbles referred to as Taylor bubbles?
+Slug flow
+185 Which type of flow is characterized by oscillatory, up, and down motions of the liquid?
+Churn flow
+186 On the Udden-Wentworth classification of grain size, what lies between pebble and boulder?
+Cobbles
+186 Name the two basic types of traps for oil? 
+Structural and Stratigraphic
+187 What is the term for global rise and fall in sea level? 
+Eustasy
+188 List one of the classifications for clays in terms of spatial distribution in the pore space
+Dispersed, Structural, Laminated
+189 In terms of spatial distribution in the pore space, how many classifications does a clay have?
+Three (3)
+190 What is the term for any geological fold that is convex up? 
+Antiform
+191 What is the most common composition of carbonate sedimentary rock?
+Calcite
+192 Carbonate sedimentary rock composed of mostly calcite is known as what?
+Limestone
+193 A layer of rock beneath the soil is known as what? 
+Bedrock
+194 What is the name given to a location where oil is found? 
+Formation
+195 List one type of a structural trap 
+Anticline, Fault, Salt dome
+196 According to the standard geologic time scale, what epoch are we currently in?
+Halocene
+197 Which structure in geology has the oldest beds at its core? 
+Anticline
+198 A reservoir with small pieces of rock or sand is known was what? 
+Unconsolidated reservoir
+199 Well-sorted sand that is pumped through perforations is known as what?
+Gravel pack
+200 On the Udden-Wentworth classification of grain size, what lies between silt and pebbles?
+Sand
+201 On the Udden-Wentworth classification of grain size, what lies between clay and sand?
+Silt
+202 Although there are local exception, most detrital sand is made up largely of the mineral...
+Quartz
+203 What term describes how each rock type forms and how they can transform into other types of rock?
+Rock cycle
+204 A molten mixture of underground rock-forming substances, gases, and water from the mantle is known as what?
+Magma
+205 What is liquid magma called when it reaches the surface? 
+Lava
+206 What type of rock is formed from layers of weathered, eroded, and deposited sediment?
+Sedimentary rock
+207 What type of rock is formed when pre-existing rocks are altered by pressure, heat, and/or fluids?
+Metamorphic rock
+208 What does the intersection of the IPR curve and VLP curve indicate? 
+Well deliverability
+209 What does the integration of flow rate versus time results in? 
+Cumulative Production
+210 What is the term for the vented or drained off fluids from a pressured well?
+Bleed Off
+211 List one type of intermittent flow. 
+Slug, Plug
+212 List one type of distributive flow. 
+Bubble, Mist
+213 Name the device inside the choke that restricts flow called? 
+Bean
+214 What is the name of the test where the well is shut in for a period before it is opened up to flow?
+Drawdown test
+215 What is caused by movement, expansion, and/or compression of wellbore fluids in response to a pressure change?
+Wellbore storage
+216 During pseudo steady state flow, the slope of the pressure change is 1 during which type of well test?
+Drawdown
+217 Which pressure is defined as the non-wet phase pressure minus wetting phase pressure in the interface between two immiscible fluids?
+Capillary Pressure
+218 What is the term for a formation with constant permeability and nohigh or low 'streaks'?
+Homogeneous
+219 What is the term for a gas that is a vapor in the reservoir and has no liquid dropout because separator conditions are still in the vapor region of the phase diagram?
+Dry gas
+220 What factor in real gases is used to relate the gas to ideal conditions? 
+z factor
+221 What is the wetting phase if the contact angle between oil and water of a liquid is less than 90°?
+Water
+222 What is the term for the equilibrium point between the sublimation line, the melting point line, and the vapor pressure line?
+The triple point
+223 What is the term given to the amount of oil that can be produced from a reservoir under current economic conditions?
+Recoverable oil
+224 List one type of porosity log. 
+Sonic, Density, Neutron
+225 What is the term for the effect of gas slippage at low pressure and is the cause for overestimation of absolute permeability in a gas saturated core?
+Klinkenberg effect or slippage effect
+226 What well log can be used to determine both the porosity and lithology of a reservoir?
+Resistivity log
+227 What three well logs can be combined to determine the mineral composition of a formation?
+Acoustic, neutron, and density
+228 What well log is used to determine both total and effective porosity? 
+Magnetic resonance imaging tool
+229 What is the name given to a reservoir with no apparent outer boundary limit affecting fluid flow during a test period?
+Infinite-acting reservoir
+230 What term is often used in relation to EOR flooding and describes the effect of one fluid flowing through a porous media and displacing fluid of a different viscosity.
+Fingering
+231 What is the absorption of fluids into the pores of a rock? 
+Imbibition
+110 What was the total number of proved oil reserves in Venezuela in 2020?
+303.8k MMbbl

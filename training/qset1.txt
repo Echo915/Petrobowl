@@ -1,0 +1,774 @@
+1. Who is the CEO of Chesapeake Energy?
+Aubrey McClendon is founder and Robert D Lawler as a CEO. Headquarter is in Okhlahoma
+2. Who is the CEO of Chevron?
+John Watson
+3. Which oil company has the highest oil production?
+Saudi Aramco
+4. Top 5 oil producing companies
+Saudi Aramco, Gazprom, National Iranian Oil Company, ExxonMobil, PetroChina
+5. List current total world oil reserves
+1.652 trillion barrels
+6. Founder and CEO of Hilcorp
+Jeff Hildebrand
+7. What are 5 assumptions behind Darcy flow?
+Re <1, Newtonian, No-slip boundary conditions, single phase flow, no chemical interaction between rock and fluid
+8. What is the formula for effective porosity?
+Volume(interconnected)/Volume(total)
+9. Which country has the largest amount of natural gas reservers?
+Iran; Russia-47.6 trillion cubic feet; Qatar
+10. Top 5 oil producing countries
+USA, Saudi Arabia , Russia, Iran, and China
+11. Who invented the earliest form of ESP?
+Armais Arutunoff born in Georgia
+12. To what state did Arutunoff relocate his ESP project?
+Oklahoma
+13. Where was the first successful ESP implementation?
+Kansas
+14. Who was the first woman SPE president?
+ DeAnn Craig, 1998
+15. Define formation volume factor
+ Reservoir volume/standard volume
+16. Which two main types of boundary conditions are normally used to represent reservoir fluid production and injection?
+Bottom hole pressure specified and production rate specified
+17. What is the Dietz method used for, and which assumptions are made for this method?
+Stable displacement in inclined systems. Assumptions Vertical equilibrium Piston displacement. Negligible capillary pressure
+32. Which log provides a good measurement of the Hydrogen in the formation?
+Neutron
+33. What are the three elements used as the source of natural gamma rays in sedimentary rocks?
+Thorium, Uranium, and Potassium
+34. What is the physical law that gives the pressure drop in a fluid across a cylindrical tube? It assumes that the flow is laminar, viscous and incompressible. It also assumes that the flow traveled is longer than th e diameter of the cross-sectional area?
+Hagen-Poisuelle Equation, ΔP=8μLQ/(πr4)
+35. Define the tortuosity.
+The ratio between the length of the curve to the distance between the end points
+36. Define kinematic viscosity
+Apparent viscosity divided by density of the fluid
+37. What is a top kill operation?
+Heavy mud is pumped from the well head down to the pot tom, forcing oil and gas to back flow to the f ormation.
+38. If a water-wet rock saturated with oil is displaced in water, will it imbibe water into the smallest or larg est pores displacing oil first?
+Smallest
+39. A fluid flow process in which the saturation of the wetting phase increases and the nonwetting phase sa turation decrease is known as what?
+imbibitions
+40. Primary and waterflood oil recovery is affected by the wettability of the system. Which wettability will exhibit greater primary oil recovery?
+Water-wet
+41. In structural geology, what is the name for a fold that is convex up and has its oldest beds at its core?
+anticline
+42. What is the term for any geological fold that is convex up?
+antiform and concave down is synform...
+43. In structural geology, what is the name of a downward-curving fold with layers that dip toward the cent er of the structure?
+syncline
+44. What is the most common type of cement, in general use around the world because it is a basic ingredie nt of concrete, mortar, stucco and non-specialty grout?
+Portland cement
+45. What are the 3 types of structural traps?
+Anticline, fault, salt dome
+46. What are the types of secondary porosity in carbonate rocks?
+Fenestral porosity (algal mats), Shelter porosity, intracrystalline porosity, moldic porosity, Vuggy or fracture porosity.
+47. What assumptions do you have to make about irreducible saturations in the bundle of tubes model?
+There is no residual water or oil saturation
+48. What are the types of reserve groups?
+Proved developed, proved undeveloped, unproved probable, unproved possible
+49. Which type of reservoirs does the SEC allow oil companies to report?
+Proved
+50. What does the acronym SCSSV stand for?
+Surface controlled subsurface safety valve
+50. What does the acronym FPSO stand for?
+Floating Production Storage and Offloading
+51. What is the term for a higher perm layer above or beneath multiple lower perm layers?
+Thief Zones
+52. What is the apparatus used to measure mud filtrate volume and mud cake thickness?
+API filter press
+53. What apparatus measures the viscosity of a fluid?
+Rheometer viscometer
+54. Does cement fracture easier under tension or compression? By what factor do these values differ?
+Tension, factor of 10
+55. Which is higher in sand with dispersed shale, brine or air permeability?
+Air permeability
+56. Name the geologic periods in order from oldest to most recent.
+Precambrian, Cambrian, Ordovician, Silurian, Devonian, Mississippian, Pennsylvanian, Permian, Triassic, Jurassic, Cretaceous, Tertiary, Quaternary
+57. Name the three stages of flow and the pressure and flow rate profiles associated with each.
+Infinite-acting: constant rate, non-linear pressure decline. Pseudo-steady-state: constant rate, linear pressure decline. Depletion flow: non-linear rate, constant pressure
+58. What is a stripper well?
+well that strips less than 10 bbl/day of crude oil or 60 MCFD of gas
+59. Name four types of naturally occurring hydrocarbons
+Paraffins, Napthenes (cycloparaffins), Aromatics, Asphalts
+60. What does a Dykstra-Parsons coefficient of 1 imply about a reservoir?
+heterogeneous reservoir
+61. What is the principle of Corresponding States and how is it used?
+Fluid properties can be related to a fluid’s critical temperature and pressure. Can be used to calculate zfactors.
+62. What are two fluid sampling methods?
+Separator/surface sample, bottomhole/subsurface sample
+63. What are some fluid characteristics of black oil?
+GOR < 2000 scf/STB API gravity below 45 deg API Formation Volume Factor < 2 RB/STB C7+ high er than 20%
+64. What is the molecular weight of air?
+29 g/gmol
+65. What is the standard temperature across the United States?
+60 degrees Fahrenheit
+66. What is the standard pressure across the United States?
+14.7 psia
+67. What is the primary function of solvent in the EOR process?
+Decreases the interfacial tension between the oil and the other phases
+68. What are the units of fugacity?
+Pressure
+69. Name the equation of states that are used when describing the PVT behavior of crude oil.
+Peng-Robinson and SKR
+70. What fluid is commonly used in carbonate reservoir simulation?
+Carbonic Acid
+71. What is the primary purpose of polymer injection?
+Improve sweep efficiency
+72. What is the term for global rise and fall of sea level?
+Eustasy
+73. What are two types of common polymer flooding?
+Alkaline flooding, Micellar-polymer flooding
+74. What operating pressure differentiates matrix acidizing from fracture acidizing?
+Injection Pressure
+75. What piece of common production facility equipment is used to remove any free water in the produced oil?
+free-water knockout
+76. Name 4 types of well logs.
+SP, Gamma Ray, Resistivity, Sonic, Density, Dipmeter, Microlog
+77. Name two types of resistivity logs.
+Induction, Lateral
+78. Give the equation of Cumulative Oil Recovery in 3D.
+Npd = Ea Ed Ei (Soi-Sor)
+79. To have maximum flow in a well bore which condition is needed? What is it specifically called?
+well flowing pressure = 0, Absolute Open Flow Potential
+80. When the wellbore pressure goes below the bubble point pressure, what equation should be used to calc ulate the productivity?
+Vogel’s Equation for two phases
+81. Define two types of perforating guns.
+Casing gun (Hollow Carrier), Tubing Gun (Expendable Carrier)
+82. If the API gravity of an oil is 40 degrees, what’s the density of the oil in lbm/cu. Ft?
+Density = 51.5 lbm/ cu. Ft
+83. Name the famous fundamental theory used in fractional flow of immiscible fluids.
+Buckley-Leverette Theory
+84. What is the most common swelling clay?
+Smectite
+85. What is the oilfield term for a mixture of HF and HCL used as the main fluid in a sandstone matrix acid izing treatment?
+Mud Acid
+86. What piece of equipment is commonly used to dehydrate produced gas?
+Glycol Tower
+87. What is the generic equation for inflow performance relation?
+J= qo/(pe-pwf)
+88. Name the common practice in compositional reservoir simulation to reduce the number of components modeled.
+Component Lumping, Pseudo-Components
+89. What are the three types of commonly recognized decline curves?
+Exponential, Hyperbolic, Harmonic
+90. Which measure of project profitability is the discount (interest) rate at which the net present value equa ls 0?
+rate of return, internal rate of return
+91. What is commonly the first step in producing a coal-bed methane field?
+Dewatering the field
+92. What method converts natural gas to clean diesel?
+gas-to-liquid
+93. What type of petroleum reservoir is easily identified by the occurrence of retrograde condensation?
+gas condensate
+94. In terms of spatial distribution in the pore space, what are the three classifications for clays?
+Dispersed, Structural, Laminated
+95. In non-compositional simulation what is the most common fluid model used?
+Black-oil
+96. The capillary pressure curves for rock samples from the same reservoir having different permeabilities will be different. What function is used to average these curves to create a single Capillary Pressure cur ve?
+Leverett J-Function
+97. Which method of heavy oil production aims to upgrade the oil in-situ?
+in-situ-combustion
+98. Define interfacial tension.
+Work done per unit area in expanding the surface of a liquid in contact with another phase
+99. Define surface tension.
+work done per unit area in expanding surface of a liquid against its own vapor phase
+100.Name three ways to estimate gas in place.
+P/z plots, Material Balance, Volumetrics
+101.What is the original, unaltered water found deep within a reservoir called?
+Connate, Virgin
+102.Name two types of traps for oil.
+Structural, Stratigraphic ,stratified
+103.What conditions are required for Darcy’s Law to be valid?
+Laminar flow, steady state, non-compressible fluid, complete segregation (non-interacting fluid)
+104.Name 4 points on a binary phase diagram.
+Critical Point, Bubble Point, Dew Point, Cricondentherm, Cricondenbar
+105.What is a cricondentherm?
+Maximum temperature at which two phases can exist
+106.What is a cricondenbar
+Maximum pressure at which two phases can exist
+107.The concept of peak oil is named after what noted geophysicist?
+Dr. M King Hubbert
+108.Who is the current Saudi oil minister?
+Ali al-Naimi
+109.What large Australian gas field is being developed by a joint venture of Chevron, Exxon, and Shell wit h Chevron as the operator?
+Gorgon gas field
+110.What is the second largest oil and gas company in Brazil?
+OGX
+111.What Brazilian mining billionaire began this company in 2007?
+Eike Batista
+112.What is the largest field in Venezuela?
+Bolivar Coastal Field on Lake Maracaibo discovered 1917
+113.What year was Petrobras formed?
+1953.0
+114.What recent Brazilian discovery could be the third largest oilfield in the world?
+Sugarloaf; Country: Brazil; Region: Santos Basin; Operator: Petrobras; Partners; Petrobras, Galp Energia, BG Group; Discovery: 2007. Estimated oil in place: 25,000 million barrels (~3.4×109 t); Producing formations: pre-salt Ap.
+115.In what basin were the giant Tupi and Jupiter fields discovered in? And lula
+Santos Basin (sub-salt)
+116.What is the national oil company of Ecuador?
+Petroecuador
+117.What US company had a joint venture with Petroecuador for 20 years beginning in 1964 and was sued for environmental damage?
+Texaco (Chevron Texaco is being sued)
+118.Which 4 major U.S. companies have leased land in Poland in the new shale gas play there?
+ConocoPhillips, Exxon Mobil, Chevron, and Marathon Oil
+119.Which company leased a million acres in Poland?
+Chevron
+120.What is the name of Poland’s gas monopoly?
+PGNiG (Polskie Górnictwo Naftowe i Gazownictwo)
+121.Who is the EU energy commissioner?
+Maroš Šefčovič
+122.Hungary’s MOL oil and gas company has entered into a partnership with which two non-European co mpanies to develop the gas deposits in Hungary’s Mako Trough?
+ExxonMobil of the United States and Falcon Oil & Gas of British Columbia, Canada
+123.Who drilled the UK’s first shale gas well?
+Cuadrilla Resources
+124.Who drilled the first shale gas discovery well in Bulgaria?
+Direct Petroleum Exploration (from Denver, CO)
+125.Which major company announced plans with ENI to build the first coalbed methane liquefaction plant?
+BP
+126.Which company is planning to exploit French shale gas following a $2.3 billion joint venture with Ches apeake?
+Total
+127.Which company partnered with Toreador Resources to develop a shale gas play in Paris Basin?
+Hess
+128.What is the name of the field of the BP oil spill?
+Macondo
+129.What is the name of the well of the BP oil spill?
+MC252: Mississippi Canyon 252
+130.What was the date of the BP blowout?
+April 22, 2010
+131.What is the name of the rig that blew out and subsequently sunk in the ocean during the BP blowout?
+Deepwater horizon
+132.What service company owned Deepwater Horizon?
+Transocean
+133.What service was Halliburton providing during the BP explosion?
+Cementing
+134.How many workers died during the BP accident?
+11.0
+135.Approximately what was the water depth of the MC252 wellhead?
+5000 ft
+136.On what date did the work of the first relief well commence after the BP accident?
+May 2, 2010
+137.What convicted terrorist’s release has been linked to a BP oil deal with Libya?
+The Lockerbie bomber (abdel Basset Al-Megrahi)
+138.Which country has the most proved oil reserves in Africa?
+Libya
+139.What company has just started producing the Arcadia field in Egypt?
+ENI
+140.Which famous Nigerian playwright and activist was executed in 1995 and brought international light to the corruption in their oil industry?
+Ken Saro-Wiwa
+141.What company discovered oil in Angola?
+Petrofina
+142.What was the name of the largest oilfield in Gabon?
+Rabi-Kounga
+143.Who operates the Rabi-Kounga field?
+Shell
+144.What company is the largest foreign producer of oil in Algeria?
+Anadarko
+145.What two companies have a joint venture with Sonatrach in the In Salah and In Amenas gas fields
+BP and StatoilHydro
+146.What company’s concessions in Congo did the Congolese president refuse to ratify?
+Tullow Oil
+147.What was the name of the rig used to drill the relief well after the BP incident?
+Development Driller III
+148.What companies are the two other partners with BP in the accident’s block?
+Anadarko Petroleum Corporation and MOEX Offshore 2007
+149.What are the shares of BPs partners in the Macondo project?
+Anadarko: 25% and MOEX: 10%
+150.Who is BP Americas CEO?
+John Minge succeeded Lamar McKay in 2013
+151.According to BPs CEO, initially what was the flowing rate?
+5,000 bbl/day
+152.Who was appointed as new BP CEO?
+Bob Dudley
+153.In what year was Exxon-Valdez spill?
+March 24, 1989
+154.Besides the recent spill in the Gulf, which is the largest oil spill in history?
+Kuwait, 1991. Wells blown by Sadam Hussein’s army.
+155.What were the top four oil consuming economies in 2009? Vh
+United States, China, Japan, India
+156.What is the largest onshore oilfield in Europe?
+Patos Marinzas in Albania
+157.Which of the seven sisters did T.Boone Pickens attempt to takeover? Who bought them?
+Pickens attempted to take over Gulf and Chevron ended up buying them
+158.What was the name of the failed field in Alaska?
+Mukluk
+159.Who sued who over the sale of Getty Oil?
+Pennzoil sued Texaco
+160.What was the original name of Nymex?
+Butter and Cheese Exchange
+161.Who bought Conoco in the 1980s?
+Dupont
+162.Who was the first general secretary of OPEC?
+Faud Rouhani (Iran)
+163.Who was the President of Conoco who made them into an international powerhouse?
+Leonard McCollum
+164.What actor appeared regularly on Texaco Star Theater?
+Milton Berle
+165.What is the longest pipeline in Europe also known as the “friendship pipeline?”
+Druzhba Pipeline that goes from Russia to Germany and is about 4000 km in length
+166.What is Exxon’s slogan?
+Put a tiger in your tank
+167.What year was Britain’s clean air act passed?
+1957.0
+168.What significant conflict in an oil country occurred at the same time as the six day war?
+Civil war in Nigeria
+169.What octogenarian U.S. oil man went to jail for his role in the fuel for food scandal?
+Oscar Wyatt
+170.Who has drilled the deepest oil well to date?
+BP, 35055 ft offshore GOM
+171.What is the largest oil field in the North Sea by reserves?
+Forties
+172.What does AGIP stand for?
+Azienda Generale Italiana Petroli
+173.What does ENI stand for?
+Ente Nazionale Idrocarburi
+174.What company recently made a large discovery in 20 ft of water off the Louisiana coast?
+McMoran
+175.What is the largest oilfield in North America?
+Prudhoe Bay
+176.Top 4 oil importing countries in the world
+USA , China , Japan , India ,South Korea , Germany , Italy .
+177.What were the top 4 oil exporting countries in 2015.
+Saudi Arabia , Russia , Iran , Iraq ,Nigeria , UAE.
+178.What is the top four natural gas exporting countries
+Russia , Qatar , Norway , Canada , Netherlands .
+179.Top four gas importing countries in the world
+Japan , USA , Germany ,Italy , China.
+180.What are the top 4 producing states in U.S.
+Texas, North DAkota, Alaska, California?
+181.What company just made the largest discovery in California in the last 35 years?
+Occidental
+182.What Texas oil man donated a large part of his wealth to the University of Houston?
+Roy Cullen
+183.What Texas oil man started the company Southern Union Gas?
+Clint Murchison
+184.What Texas oil man is the great uncle to the Basses of Ft. Worth?
+Sid Richardson
+185.What Texas oil man invented the rock bit?
+Howard Hughes Sr.
+186.What Texas oil man spent part of his life trying to find the Sasquatch?
+Tom Slick
+187.What Texas oil man owned the Dallas cowboys?
+Clint Murchison Jr.
+188.What Texas oil man made his fortune after buying up leases in the East Texas Field including some fro m Dad Joiner?
+H. L. Hunt
+189.What Texas oil man got his Libyan concession taken away and then lost a good part of his fortune tryin g to corner the silver market with his brother?
+Bunker Hunt
+190.What Texas oil heir owned the Kansas City Chiefs?
+Lamar Hunt
+191.What Texas oilman was the character Jett Rink loosely based on?
+Glen McCarthy
+192.What was the name of Glen McCarthy’s hotel in Houston?
+Shamrock (bought by Hilton)
+193.What was the name of the discovery well in the East Texas field?
+Daisy Bradford No. 3
+194.What was the name of the discovery well in West Texas?
+Santa Rita No. 1
+195.What Texas oil man was an early player in the North Sea, Yemen, and Peru?
+Ray Hunt
+196.What are the top 5 exporting European countries?
+Norway, United Kingdom, Netherlands, Belgium, Italy
+197.The Ammott index measures what property of a rock?
+Wettability
+198.When did Petrobowl start?
+2002.0
+199.Name all the champions of Petrobowl.
+University of Texas (2009), University of Oklahoma (2008 & 2007), Colorado School of Mines (2006), Texas A&M (2005 & 2003) Montana Tech (2004), Texas Tech (2002)
+200.What two teams won Petrobowl twice?
+University of Oklahoma and Texas A&M
+201. In 2009, Petrobowl had what milestone(s)
+Largest Petrobowl, Largest international participation, First MVP (most valuable player) award presented
+202.Who organizes the questions for Petrobowl?
+SPE Gulf Coast section young professionals board
+203.What 4 schools have gone to every Petrobowl?
+Texas A&M, Louisiana State University, Montana Tech, Texas Tech
+204.Where will ATCE be held in the next two years?
+San Antonio (2011), Denver (2012) ,New Orleans lousiana USA (2013)' Netherlands 2014
+205.Where were the last 3 ATCE held?
+New Orleans (2009), Denver (2008), Anaheim (2007)
+206.Who is sponsoring the 2010 ATCE?
+ENI
+207.Who sponsored last year’s Petrobowl? (2010)
+Petroskills and Encana
+208.Who are the biggest oilfield service companies (top 5?)
+Schlumberger Limited, Halliburton, Saipem, Transocean Ltd., Baker Hughes
+209.What is the largest merger in American History?
+Exxon + Mobil
+210.What is the largest oil spill?
+Gulf War oil spill, oil tankers, January 21, 1991
+211.Where was the first over-water oil well drilled?
+Caddo Lake, Gulf Oil 1911
+212.Which three countries did the Adriatic section comprise from 1987-1991?
+Italy, Yugoslavia, and Austria
+213.When did the Adriatic section change its name to the Italian Section?
+1995.0
+214.What is the oldest Italian oil company?
+SPI Società Petrolifera Italiana - is more than 99% owned by Eni. Founded in 1905, it is the oldest Italian c ompany
+215.What oil-bearing formation in Montana, North Dakota, and Saskatchewan is produced with horizontal wells and hydraulic fracturing?
+The Bakken formation
+216.How much recoverable oil does the USGS estimate is in the Bakken Formation?
+3.65 billion barrels
+217.Name 5 shale gas plays in the United States.
+Antrim, Barnett, Caney, Floyd, Gothic, Haynesville, New Albany, Utica, Woodford.
+218.How much shale gas was produced in the United States in 2008?
+2.02 TCF
+219.Who regulates the reserves reporting requirements?
+SEC
+220.Under what price were reserves booked under the old rules?
+Year-End
+221.Under what price are reserves booked under the new rules/
+Average
+222.When were the SEC reporting requirements last amended?
+1982.0
+223.Were unconventional reserves “bookable” under the previous SEC reporting requirements?
+No
+224.When did the new SEC rules take effect?
+January 1 2010
+225.In what decade was Ghawar discovered?
+1940s (1948)
+226.What are the two most productive operating areas in Ghawar, and where are they located in the field?
+Ain Dar, Shedgum
+227.What is the name of the most productive carbonate formation (not field) in Saudi Arabia?
+Arab D Zone 2-B
+228.What are the three largest oilfields in Saudi Arabia?
+Ghawar, Abqaiq, Shaybah
+229.What is the world’s largest offshore field?
+Safaniya
+230.Name the five largest oilfields in the world.
+Ghawar, Burgan, Cantarell, Daquing, Kirkuk
+231.What is the second largest oilfield in the United States and where is it located?
+Kuparuk River, North Slope
+232.What is the largest oilfield in Iraq and when was it discovered?
+Kirkuk, 1927
+233.When did United States oil production peak?
+Early 1970
+234.What was the peak United States oil production?
+10.2 MMbbl/day
+235.The Society of Petroleum Engineers began as part of which organization?
+American Institute of Mining Engineers
+236.What year was SPE formed?
+1957.0
+237.Who was the first president of SPE?
+John Hammond
+238.Who is the 2010 SPE president?
+Behrooz Fattahi
+239.Who is the 2011 SPE president?
+Alain LeBastie
+240.How many SPE members were recorded at the end of 2009?
+92100.0
+241.How many countries have SPE organizations?
+117.0
+242.Who was the first chairman of the SPE Italy section?
+Umberto Sugny
+243.Who is the 2010 chairman of the SPE Italy section?
+Maurizio Rampoldi
+244.Who was the first and only Italian SPE president?
+Giovanni Paccaloni
+245.What is a whipstock?
+An angle to build off
+246.What is a bent sub?
+A tool to build an angle
+247.Who is the 2010 ENI chief executive?
+Paolo Scaroni
+248.What is the name of the Iranian field that ENI has recently to pull out of?
+Darkhovin Oil Field
+249.Who is the current CEO and chairman of Chevron?
+John Watson
+250.Chevron was originally known as which of the dissolved company of Standard Oil Trust?
+Standard Oil of California
+251.When was Pacific Coast Oil Company founded?
+1879.0
+252.SoCal took the name Chevron in 1984 when it merged with which company?
+Gulf Oil
+253.Chevron acquired two companies in the past ten years. Name these companies.
+Texaco and Unocal
+254.Texaco can trace its roots to which company formed in Beaumont, TX in 1901?
+Texas Fuel Company
+255.Chevron markets fuel under several brand names. What are these?
+Chevron, Standard Oil, Texaco, Caltex, Gulf Oil, Unocal
+256.What SPE journal presents authoritative briefs and features on E&P technology advancements, oil and gas industry issues, and news about SPE and its members?
+Journal of Petroleum Technology
+257.Who was the first female president of SPE?
+Deann Craig (1998)
+258.Who was the first non-American SPE president?
+Jacques Bosio (1993)
+259.In what year was the first offshore Technology Conference held?
+1969.0
+260.In what year was the first issue of SPE Journal published?
+1961.0
+261.In 1986, SPE launched four discipline-specific technical journals. Name these.
+Drilling Engineering, Production Engineering, Formation Evaluation, Reservoir Engineering
+262.What SPE journal is designed specifically for young professionals?
+The Way Ahead
+263.What were the names of the two Schlumberger brothers?
+Conrad, Marcel
+264.What year did Schlumberger first open for business?
+1920.0
+265.Where was Schlumberger’s first office located?
+Paris, France
+266.In 1940 Schlumberger’s headquarters was relocated, to where?
+Houston, Texas
+267.In 1999, the world’s largest drilling fluids company was created through a joint venture between Schlu mberger and which other service company?
+Smith International
+268.What year was the gamma-ray log introduced?
+1939.0
+269.What year was Exxon Mobil founded?
+1999 (through a merger)
+270.Which country is the largest consumer of natural gas?
+United States
+271.Who developed the first electrical log
+The Schlumberger Brothers
+272.What company merged to create Baker Hughes?
+Baker International and Hughes Tool Company
+273.Who is the founder of Smith International?
+Herman C. Smith
+274.What year was Baker Hughes Company founded?
+1987.0
+275.What invention is the Hughes Tool Company most known for?
+first rotary drill bit
+276.In 1970, Ruben C. Baker invented the Baker Casing Shoe. How did this invention improve oil producti on?
+it allowed for uninterrupted flow of oil through a well
+277.In the New York Stock Exchange what is Halliburton’s sticker symbol?
+HAL
+278.What year did Halliburton go public?
+1948.0
+279.In 1995, who was named President, chairman and CEO of Halliburton?
+Dick Cheney
+280.Where is Weatherford International’s headquarters located?
+Houston, Texas
+281.What year was the first offshore oil platform built?
+1938.0
+282.What company constructed the first offshore oil platform?
+Superior Oil
+283.What oil company owns the largest oil platform?
+Petrobras
+284.What was the date of the highest price of oil per barrel occur?
+39630.0
+285.What is the name of the Schlumberger researcher that developed of the SP log?
+Henri Doll
+286.What company introduced the gamma ray log?
+Well Surveys Inc.
+287.What is the capital of Venezuela?
+Caracas
+288.What is the capital of Qatar?
+Doha
+289.What is the capital of Ecuador?
+Quito
+290.What is the capital of Libya?
+Tripoli
+291.What is the capital of Nigeria?
+Abuja
+292.What year did Saudi and Aramco come to a 50/50 Deal?
+1950.0
+293.What did Enrico Mattei do in the 1930s?
+Manager at a chemical plant
+294.Who introduced Alfonzo and Tariki?
+Wanda Jablonski
+295.What was the name of the precursor agreement to the formation of OPEC? What five countries were in volved?
+Gentlemen’s Agreement. Iran, Iraq, Venezuela, Saudi Arabia, Kuwait
+296.Where did the Japanese consortium Arabian oil get their concession?
+Offshore Neutral Zone
+297.What American company broke the 50/50 agreement in Iran after ENI?
+Standard Oil of Indiana
+298.What was the Brownsville U-Turn?
+Mexico had no pipelines so they shipped oil to Brownsville and then drove it across the border and then back to the U.S. to take an advantage of tariff breaks for overland shipped oil
+299.Who replaced Tariki as the Saudi Oil minister? 
+Answer: Ahmed Zaki Yamani
+300.Name the five original countries in OPEC.
+Iran, Iraq, Venezuela, Saudi Arabia, Kuwait
+301.How did Enrico Mattei die?
+Plane crash with the Time Magazine Rome Bureau chief
+302.When did Standard Oil antitrust break up?
+1911.0
+303.What did Standard of Oil of New York turn into?
+SOCONOY Mobil Exxon Mobil
+304.Who made up ARAMCO?
+Jersey, SOCONY, Texaco, and Standard Oil of California
+305.Who was Anglo-Iranian’s CEO?
+Sir William Fraser
+306.How did the Shah come to power?
+Allies put him in place of his Nazi-sympathizing dad
+307.Who was the leader of Operation AJAX?
+Kermit Roosevelt
+308.What ends up happening to the Justice department’s antitrust case?
+Downstream only affected, STANVAC pulled apart.
+309.What year did the oil lift take place?
+1956.0
+310.Who was the leader of Egypt who nationalized the Suez?
+Gamal Abdel Nasser
+311.Who built the Suez Canal?
+Ferdinand de Lesseps
+312.When was the Suez Canal finished?
+1869.0
+313.Name the oil man who drilled the first well in the United States.
+Colonell Drake
+314.Where and when was the first well drilled in the United States?
+Titusville, Pennsylvania, 1859
+315.How deep was the first well drilled in the United States?
+69 ft deep
+316.Name the promoter who organized an investor group for Silliman’s study of “Rock Oil.”
+George Bissel
+317.Who invented and patented “Kerosene?”
+Abraham Gesner
+318.When and where the first flowing well was drilled in the United States?
+On 1861, at the rate of 3000 bbl/day in the Western Pennsylvania
+319.When was the peak oil production in Western Pennsylvania and what was the production rate?
+1862, 3 million bbl/day
+320.When, where and for what price did John Rockefeller buy his first refinery?
+1865, Cleveland, Ohio. Rockefeller won in private auction one of the city’s biggest oil refineries for $7 2,500 against Maurice Clark
+321.Who owned the world’s largest refinery at the end of the 1860s?
+J.D. Rockefeller
+322.Name the closest partner of John Rockefeller who run oil transportation arrangements as well as founded Miami and Palm Beach and developed the state of Florida?
+Henry Flagler
+323.When and where was Standard Oil founded?
+Founded in 1870, by five men led by Rockefeller on 26 Broadway, NYC
+324.Name the world’s first long distance pipeline and the date it was built.
+Tidewater, 1879
+325.Name the sulfur rich oil field discovered at the mid of 1880s which soon gave one third of American oil production?
+Lima-Indiana field, Ohio state
+326.Nowadays majority of oil companies are vertically integrated. Name the person who founded this type of corporate management?
+John Rockefeller
+327.When was the first well drilled in Baku?
+1871/1872
+328.Later this person was called oil king of Baku, this person who established Nobel’s Brother’s Petroleum Company. Who was he?
+Ludwig Nobel
+329.When did the Russian oil production reach 4/5 of the US production and how much was it?
+1886, 23 million bbl/day
+330.Name the company of jewish family and the date it was established
+BNITO, 1886 (Caspian and Black Sea Petroleum Company)
+331.Which company established a new branch in Britain 24 days after BNITO, also give the name of the company.
+1888 – Standard Oil established its first foreign affiliate – Anglo-American Company 24 days after the Rothschilds, becoming true Multinational enterprise
+332.Describe the revolutionary trip of Marcus Samuel.
+1892- Marcus Samuel’s Coupe: Murex – Marus Samuel’s tanker sailed from West Hartlepool to Batum in Caspian region, where it was filled with BNITO’s kerosene, then went to Singapore and later arrived to final destination—Bangkok
+333.When did Edison invent incandescent light bulb?
+1878.0
+334.According to The Prize, give the years of the Kerosene Age.
+1859-1900
+335.When and where was the first start of Californian oil boom?
+1870s – oil boom in Ventura County and in San Fernando Valley, North of Los Angeles
+336.Which company in California was the dominant producer before Socal?
+Union Oil of Califonia
+337.When was SOcal founded?
+1907.0
+338.When and where was Rotary Drilling technique first pioneered and used?
+1900—Corsicana, TX used in Spindletop
+339.By what event was Texas Oil Boom started and when was it?
+Well Lucas 1 – Spindletop gusher ( 75,000 bbl/day) in 1901
+340.Give the year of the start of the Oklahoma oil boom.
+1901.0
+341.Which oil field in OK made the state a leading oil producer?
+Glen Pool, Tulsa, Oklahoma
+342.When and by whom Gulf Oil was founded?
+1907 by Mellons
+343.This person was a pioneer of the Texan oil industry byy founding a new oil company. Name the person , his company and the date it was founded.
+Joseph (Buckskin Joe) Cullinan, an aggressive Texas oil developer, Texaco, 1906
+344.Name the date of Rockefeller’s retirement and his successor.
+1897, John D. Archibold
+345.Name the author and date of publication of the book, The History of Standard Oil Company.
+Ida Tarbell, 1904
+346.Name the president who caused Standard’s break up and his year of election.
+Theodore Roosevelt
+347.When did Standard oil break up? Name the companies it formed.
+1911; Standard Oil of New Jersey – Exxon Standard Oil of New York – Mobil Standard Oil of California – Chevron Standard Oil of Ohio – Sohio Standard Oil of Indiana – Amoco Continental Oil – Conoco Atlantic
+348.When did the first gusher start in Borneo and what was it called?
+1898, called Black Spot, oil was unsuitable for kerosene, but good for fuel oil
+349.This person was called “Napoleon of Oil,” he also led a new combination of two companies – competitors of Standard, name him and the combination he led.
+Henri Deterding, “British Dutch”
+350.Name the company, created by Rothschilds at the beginning of 20th century.
+Asiatic Petroleum Company
+351.When and how was Royal Dutch Shell Group formed, its primary share holders?
+1907 – Royal Dutch Shell Group (RDSG) was created by purchase of Royal Dutch 25% shares of Shell Royal Dutch and Shell became holding companies, with the former holding 60% of the stock in the operating subsidiaries and the latter 40%
+352.When and how RDSG became an important player in Russia?
+1912 – the Rothschilds sold their interests to RDSG, instantly making it a major economic force in Russia, with 20% control of its total oil production
+353.Who formed the European Petroleum Union?
+Nobels, Rothschilds, Deutsche Bank
+354.When was the European Petroleum Union formed?
+1906.0
+355.Name the Persian diplomat who made important connections to develop Persian oil industry.
+Antonie Kitabgi
+356.This person made a very important contribution to Persian oil industry, organized first drilling operations and led the British Concession syndicate to develop oil industry in Persia. Who is this person?
+Knox D’Arcy
+357.Name the location and date of the first gusher in Persia.
+Neutral Zone in 1908
+358.Give the name of the reorganized name of the British Concession.
+Anglo-Persian Oil Company (APOC)
+359.Which company in England started the Persian oil industry development by investing on D’Arcy’s operations in Persia?
+Burmah Oil in 1904
+360.What did Churchill learn about oil from Frisher?
+it does not deteriorate It can be stored up in vast, defensible tanks that which was east of Suez was cheaper than coal
+361.When Churchill agreed to convert entire navy to oil?
+1912.0
+362.In an effort to integrate, Anglo-Persian purchased one of the largest pipeline networks in the United Kingdom. What was the name of the company that owned the pipeline?
+British Petroleum
+363.Used as an essential ingredient for TNT, it was generated from coal until able to extract from Shell’s Borneo crude. What wast his ingredient?
+Toluol
+364.Of the many tankers sunk by German submarines in WWI, give the name of one lost by Standard Oil of New Jersey and Shell.
+Standard Oil of New Jersey lost the John D. Archibold and Shell Lost the Murex
+365.Within 5 % give the percentage of petroleum supplied by the United States to Allied Forces in WWI.
+0.8
+366.State the purpose and chairman of the National Petroleum War Service Committee during WWI.
+It pooled the American oil supplies for Europe. Alfred Bedford, president of Standard Oil of New Jersey
+367.The “golden lane” is located in which country?
+Mexico
+368.Located in Venezuela, what region led to the country’s oil boom?
+Lake Maracaibo Basin
+369.The barroso well owned by Shell in the Lake Maracaibo Basin started the Venezuelan boom, what was its initial production rate and what was the name of the field?
+100,000 bbls/day and La Rosa Field
+370.What type of drilling method brought Jersey off the sidelines and into the game in 1928?
+Underwater Drilling
+371.What was the name of the field that brought the boom to East Texas?
+The Black Giant
+372.Name the well in 1930 that brought attention to the Black Giant and its initial production.
+Daisy Bradford # 3, 340,000 bbl/day
+373.This entity was called in to stop the over-production in the Texas fields.
+Texas Railroad Commission
+374.This contraband oil became the problem with getting the oil industry back to stability by undercutting the already low prices.
+Hot Oil
+375.Name the agreement between states that helped stabilize the industry by voluntary quotas.
+Interstate Oil Compact
+376.How many barrels of oil did Japan accidentally destroy during the bombing of Pearl Harbor?
+4.5 million bbl
+377.Before WWII, who were the three largest oil companies in Aisia?
+Rising Sun, Standard Vacuum, Japanese Affiliates of Royal Dutch Company
+378.Who was Japan’s largest importer of petroleum before WWII?
+United States of America
+379.Name 2 of the 3 powers the “Petroleum Industry Act” of 1934 gave to the United States government?
+Set Market Quotas, Fix Prices, Control imports/exports of petroleum
+380.What grade of oil did the United States ban from exports to Japan with the “National Defense Act?”
+Aviation Fuel (87+)
+381.What was I.G. Farben?
+Largest German synthetic fuel chemical company
+382.Who is Friederich Bergius?
+First man to successfully extract liquid from coal
+383.Who is Walter Teagle?
+President of Standard Oil of New Jersey (1926).
+384.Who was Frank Howard?
+Head of Research for Standard Oil of New Jersey in 1926
+385.Who was Carl Bosch?
+Chairman of I.G. Farben
+386.Who was Albert Speer?
+Minister of Armament and War Production.
+387.What is hydrogenation?
+the process of extracting liquid from coal.
+388.At the start of WWII, which company lead Germany’s synthetic fuel industry?
+I.G. Farben
+389.In which American state did Standard Oil of New Jersey build a hydrogenation plant?
+Louisiana
+390.Before the beginning of WWII, what percentage of Germany’s total energy imports did the United States account for?
+0.9
+391.Name the three main Caucasian Oil fields Hitler desired.
+Baku, Maikop, Grzony
+392.Which oil field did Japan capture apart from Hawaii?
+Borneo
+393.In 1945 which country invaded Manchuria?
+Soviet Union
+394.When Did Japan run out of oil completely?
+1944.0
+395.What did the Japanese call the oil rich region in which Borneo and Sumaria are located?
+The Southern Zone
+396.In 1943, what was the name of the largest oil field between California and the Middle East?
+Minas
+397.What oil field was Japan’s only wildcat well drilled during WWII?
+Minas
+398.H.C. Jansen desired to create a great oil center in the south pacific. What country did he want to place it?
+Borneo
+399.Who pioneered the development of seismograph... He was known as "the founder of applied geophysics in the petroleum industry"
+Everette Lee DeGolyer
+400.To within 5%, what percentage of oil used by the Allies in WWII was produced by the United States?
+0.9

@@ -1,0 +1,220 @@
+What is the amount of oil located in the subsurface of a reservoir of an oil field?
+Oil in place
+Sonic, density, and neutron are all what type of logs in well logging?
+Porosity logs
+Material balance equation
+Production = expansion + influx + injection
+Linear flow form of Darcy's law
+Q=ka(p1-p2)/μL
+Conversion factor for field units of Darcy's law
+1.127x10^-3
+Name at least 4 assumptions of Darcy's law
+Laminar flow, Viscous flow, Incompressible flow, Steady state, Homogeneous formation, 100% flowing phase,
+Dead oil 
+Oil without any dissolved gas
+3 types of nonNewtonian fluids
+Pseudoplastic (shear thinning), Dilatant (shear thickening), Bingham plastic fluids
+Effect of gas slippage at low pressure and cause for overestimation of absolute perm in gas saturated cores
+Klinkenburg or slippage effect
+Process used to determine pore size distribution in a sample
+Inject sample with mercury and plot a graph of capillary pressure vs water saturation
+What is indicated by low pore entry pressure?
+Formation has large pores since low pressure is needed for fluid to enter formation
+What does the term B_g mean
+Gas formation volume factor
+Will an sp log spike lower or higher in a reservoir containing hydrocarbons?
+Lower
+What does R_s mean 
+Solution gas-oil ratio
+What log can determine both porosity and lithology of a reservoir
+Resistivity log
+What 3 logs can combine to determine mineral composition of a formation
+Acoustic, neutron, density
+What log is used to determine both total and effective porosity
+Magnetic resonance imaging tool
+The name given to a reservoir with no apparent outer boundary affecting fluid flow during a test period
+Infinite-acting reservoir
+What factor is a correction for the Darcy's equation that accounts for differences in pressure and fluid saturation along a fracture?
+Beta factor
+This describes the movement of water upward or gas downward toward a decrease in pressure caused by producing hydrocarbons in a zone with no vertical permeability boundaries
+Coning
+This term, used in relation to eor flooding, describes the effect of one fluid flowing through a porous media and displacing fluid of a different viscosity
+Fingering
+This tertiary recovery method involves injecting air into the formation and igniting the oil
+Fire flood
+What kind of EOR method uses the flooding the oil reservoir from the top of the reservoir or from an updip location in order to push the oil toward a producing well
+Gas flood
+Imbibition 
+The absorption of fluids into the pores of a rock
+Irreducible water saturation
+This fraction of the pore space is occupied by water when hydrocarbon is at his maximum
+Maltene 
+A cyclic compound associated with asphaltenes that helps keep asphaltene platelets in suspension
+Mobility ratio 
+A comparison of a fluid to move through another fluid or to displace the fluid
+Bilinear flow 
+Type of flow that occurs at an early time during testing of wells that are hydraulically fractured with a finite conductivity fracture
+Spherical flow 
+Type of flow from the formation to the wellbore that is channeled through a short set of perforations or through the small probe of a wireline formation tester. The typical slope is t^-.5
+During which flow can permeability, average pressure, and wellbore skin be calculated
+Radial flow
+Flow that happens when all boundaries have been encountered in a closed reservoir and the reservoir is undergoing depletion
+Pseudosteady state flow
+5 types of reservoir boundaries
+No flow, Constant pressure, Leaky, Conductive, Composite limits
+STP 
+the International Union of Pure and Applied Chemistry (IUPAC) defines standard temperature to be 0°C [273.15°K, 32°F] and standard pressure to be 100 kPa [1 bar, 0.9869 atm, 14.504 psi] and the Society of Petroleum Engineers (SPE) defines standard temperature to be 15°C [288.15°K, 59°F] and standard pressure to be 100 kPa.
+Pyrolysis 
+A type of geochemical analysis in which a rock sample is subject to controlled heating in an inert gas to or past the point of generating hydrocarbons in order to assess its quality as a source rock, the abundance of organic material in it, its thermal maturity, and the quality of hydrocarbons it might generate or have generated. Pyrolysis breaks large hydrocarbon molecules into smaller molecules. This process is used to determine the quality of shale as a source rock and is instrumental in evaluating shale gas plays.
+GIIP 
+Abbreviation for gas initially in place, the volume of gas in a reservoir before production
+Solution gas or dissolved gas
+Gas dissolved in oil at higher pressures. The lighter the oil the more gas will typically be dissolved in it.
+GOR, gas oil ratio 
+Is the ratio of produce gas to oil.
+When this gas comes to surface no liquids are produced except water.
+Wet gas 
+The max temperature above which liquid cannot be formed regardless of pressure.
+Cricondentherm 
+Iso-vol lines 
+Lines of equal volume of liquid. 
+In pulse testing, This parameter represents the total time length of a cycle, i.e., the shut-in period plus the flow or injection period.
+Cycle period ΔtC
+In pulse testing, This parameter represents the length of the flow or injection time.
+Flowing or Injection period Δtf
+In pulse testing, This parameter represents the elapsed time between the end of a pulse and the pressure peak caused by the pulse. THis is associated with each pulse and essentially describes the time required for a pulse created when the rate is changed to move from the active well to the observation well.
+Time lag tL
+In pulse testing, This parameter is the vertical distance between two adjacent peaks (or valleys) and a line parallel to this through the valley(or peak)
+Pressure response amplitude Δp
+Who proposed a pulse test analysis technique that uses the four dimensionless groups?
+Kamal and Brigham(1975)
+What is the ratio between the pulse period and the cycle period, introduced by Kamal and Brigham(1975)?
+Pulse Ratio F'
+In this test the well is shut in until the pressure is stabilized at initial reservoir pressure pi. At this time, the injection begins at a constant rate qinj, while recording the bottomhole pressure pwf.
+Injectivity test
+This test is usually preceded by an injectivity test of a long duration. This testing is analogous to pressure build-up testing in a production well. Also is concerned as the measurement and analysis of pressure data taken after an injection well is shut in.
+Pressure fall-off test
+These tests are specifically designed to determine the pressure at which fracturing could be induced in the reservoir rock. In this test, water is injected at a constant rate for about 30 minutes before the rate is increased and maintained for successive periods, each of which alasts for 30 minutes. The pressure observed at the end of each injection rate is plotted versus the rate. This plot usually shows two straight lines which intersect at the fracture pressure of the formation.
+Step-rate test
+This type of drive in the reserovir is characterized for water associated to one infinite active aquifer encroaching across the original hydrocarbonwater contact. Name it.
+Natural Water Drive
+This term refers to the water encroachment mechanism in which the rate of water influx equals the reservoir total production rate. These drive are typically characterizedby a gradual and slow reservoir pressure decline.
+"Active"water drive
+What is the purpose of OPEC?
+to control the production and price of oil
+What is the origin of OPEC?
+In 1960, many oil-rich nations
+What does OPEC stand for?
+Organization of Petroleum Exporting Countries
+Who were the original members of OPEC?
+Iran, Iraq, Kuwait, Saudi Arabia, Venezuela
+How many countries are part of OPEC?
+12
+How much of the world's oil is from OPEC?
+About 40%
+What happens when OPEC decides to produce less oil?
+the world's supply of petroleum drops
+Since people still need oil, what stays high?
+the demand for oil
+If there is less oil what happens to oil price?
+it goes up
+Gas prices were very low up until when?
+1970s
+When was the WAKEUP CALL?
+1973
+What was the WAKEUP CALL?
+Arab OPEC member nations refused to ship oil to the U.S. and several other western countries. This was to protest the U.S. (and other countries) support for Israel in a war against Egypt and Syria. The result here was the "1973 energy crisis."
+What was the cause of the WAKE-UP CALL?
+There was an extreme shortage in oil, so the price quadrupled, and gas stations started rationing.
+The U.S. imports more than what?
+than we produce
+When was OPEC created?
+September 1960
+What countries started OPEC?
+Saudi Arabia, Iran, Iraq, and Kuwait
+What does OPEC control?
+Oil Supply
+Where was the 1st commercial oil well dug?
+Pennsylvania
+What caused the demand for oil to skyrocket?
+Supply went down
+What types of products are made with oil?
+Plastics, paints, insecticides, fabrics, inks, hair conditioner, soaps
+Who controlled oil at the very beginning?
+Saudi Arabia
+Who were the "Seven Sisters"?
+4 americans and 3 europeans
+Where was oil first discovered in the Middle East?
+Iran
+Which country made the first oil discovery in the Middle East?
+Great Britain
+What was the Yom Kippur War (1973) and how did it affect U.S. oil prices?
+1st Oil Shock, affected the US with gas shortages and long lines at pumps
+What event led to the 2nd oil shock?
+1979 Iranian Revolutions
+When was the highway speed limit set by Congress?
+1974
+What was the highway speed limit?
+55 miles per hour
+How is the price of oil determined?
+supply and demand
+What did some big oil companies do to try to regain some control of the oil market?
+Tried to search for oil in other places
+How much of the world's known oil reserves are controlled by OPEC?
+2/3
+What would happen to the price of oil if countries like the United States found an alternative energy source that could be synthetically produced and replace oil in automobiles?
+The price would go down because the demand would be lower.
+What country in the Middle East controls the most oil reserves and oil exports?
+Saudi Arabia
+When was SPE formed?
+1957
+Give examples of SPE major technical disciplines.
+Upstream oil and gas operations, Health, Safety, Security, Environmental and social responsibility
+Name 4 SPE resources 
+SPE.org, Energy4me.org, SPE Periodicals, SPE Technical Resources
+Who was the first woman president of SPE?
+DeAnn Craig, 1998
+When was the first issue of SPE Journal published?
+1961
+Name 4 SPE magazines.
+HSE Now, Journal of Petroleum Technology, Oil and Gas Facilities, The Way Ahead
+Name the first nonAmerican SPE President.
+Jacques Bosio, 1993
+Where is SPE Offshore Technology Conference held every year?
+Houston, Texas
+Where and when was the first and second ATCE held outside the USA?
+Florence, Italy in 2010, Amsterdam in 2014
+When was the first issue of The Way Ahead published?
+2006
+When did SPE open an open-office in Dubai?
+2003
+Where was the first SPE board of directors meeting?
+Dallas Oct. 6th 1957
+name the organization from which SPE began as a subcommittee
+AIME, American Institute of Mining engineers
+in 2009 SPE completed a merger that resulted in the acquisition of 4500 members worldwide. Name the group that merged into SPE
+Petroleum Society of Canada
+what is the total memberships of SPE, Professionals and students
++64000 members (164 936 members)
+what percentage of SPE memberships is comprised of students?
+1%
+How many countries are in SPE
+143 countries
+who was the first non american SPE President
+Jacques Bossio (1993)
+in what year was the first Offshore Technology Conference held?
+1969
+in what year was the first issue of the SPE Journal published?
+1961
+in 1986 SPE Launched four discipline specific technical journals. Name these.
+Drilling Engineering, Production Engineering, Formation evaluation, Reservoir Engineering
+What is "the way ahead"?
+young professionals magazine that SPE Publishes every year
+What spe journal is designed specifically for young professionals
+the way ahead
+highest award that you can win as an SPE member is...
+Honorary member award
+Name the year the petroleum branch of AIME became a full fledged professional society that would become SPE
+1957
+What spe journal presents authoritative briefs and features on E & P technology advancements, oil and gas industry, issues and news about SPE and it's members
+Journal of Petroleum Technology

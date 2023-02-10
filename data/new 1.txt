@@ -1,0 +1,643 @@
+What is the amount of oil located in the subsurface of a reservoir of an oil field?
+Oil in place
+Sonic, density, and neutron are all what type of logs in well logging?
+Porosity logs
+Material balance equation
+Production = expansion + influx + injection
+Linear flow form of Darcy's law
+Q=ka(p1-p2)/μL
+Conversion factor for field units of Darcy's law
+1.127x10^-3
+Name at least 4 assumptions of Darcy's law
+Laminar flow, Viscous flow, Incompressible flow, Steady state, Homogeneous formation, 100% flowing phase,
+Dead oil 
+Oil without any dissolved gas
+3 types of nonNewtonian fluids
+Pseudoplastic (shear thinning), Dilatant (shear thickening), Bingham plastic fluids
+Effect of gas slippage at low pressure and cause for overestimation of absolute perm in gas saturated cores
+Klinkenburg or slippage effect
+Process used to determine pore size distribution in a sample
+Inject sample with mercury and plot a graph of capillary pressure vs water saturation
+What is indicated by low pore entry pressure?
+Formation has large pores since low pressure is needed for fluid to enter formation
+What does the term B_g mean
+Gas formation volume factor
+Will an sp log spike lower or higher in a reservoir containing hydrocarbons?
+Lower
+What does R_s mean 
+Solution gas-oil ratio
+What log can determine both porosity and lithology of a reservoir
+Resistivity log
+What 3 logs can combine to determine mineral composition of a formation
+Acoustic, neutron, density
+What log is used to determine both total and effective porosity
+Magnetic resonance imaging tool
+The name given to a reservoir with no apparent outer boundary affecting fluid flow during a test period
+Infinite-acting reservoir
+What factor is a correction for the Darcy's equation that accounts for differences in pressure and fluid saturation along a fracture?
+Beta factor
+This describes the movement of water upward or gas downward toward a decrease in pressure caused by producing hydrocarbons in a zone with no vertical permeability boundaries
+Coning
+This term, used in relation to eor flooding, describes the effect of one fluid flowing through a porous media and displacing fluid of a different viscosity
+Fingering
+This tertiary recovery method involves injecting air into the formation and igniting the oil
+Fire flood
+What kind of eor method uses the flooding the oil reservoir from the top of the reservoir or from an updip location in order to push the oil toward a producing well
+Gas flood
+Imbibition 
+The absorption of fluids into the pores of a rock
+Irreducible water saturation
+This fraction of the pore space is occupied by water when hydrocarbon is at his maximum
+Maltene 
+A cyclic compound associated with asphaltenes that helps keep asphaltene platelets in suspension
+Mobility ratio 
+A comparison of a fluid to move through another fluid or to displace the fluid
+Bilinear flow 
+Type of flow that occurs at an early time during testing of wells that are hydraulically fractured with a finite conductivity fracture
+Spherical flow 
+Type of flow from the formation to the wellbore that is channeled through a short set of perforations or through the small probe of a wireline formation tester. The typical slope is t^-.5
+During which flow can permeability, average pressure, and wellbore skin be calculated
+Radial flow
+Flow that happens when all boundaries have been encountered in a closed reservoir and the reservoir is undergoing depletion
+Pseudosteady state flow
+5 types of reservoir boundaries
+No flow, Constant pressure, Leaky, Conductive, Composite limits
+STP 
+the International Union of Pure and Applied Chemistry (IUPAC) defines standard temperature to be 0°C [273.15°K, 32°F] and standard pressure to be 100 kPa [1 bar, 0.9869 atm, 14.504 psi] and the Society of Petroleum Engineers (SPE) defines standard temperature to be 15°C [288.15°K, 59°F] and standard pressure to be 100 kPa.
+Pyrolysis 
+A type of geochemical analysis in which a rock sample is subject to controlled heating in an inert gas to or past the point of generating hydrocarbons in order to assess its quality as a source rock, the abundance of organic material in it, its thermal maturity, and the quality of hydrocarbons it might generate or have generated. Pyrolysis breaks large hydrocarbon molecules into smaller molecules. This process is used to determine the quality of shale as a source rock and is instrumental in evaluating shale gas plays.
+GIIP 
+Abbreviation for gas initially in place, the volume of gas in a reservoir before production
+Solution gas or dissolved gas
+Gas dissolved in oil at higher pressures.The lighter the oil the more gas will typically be dissolved in it.
+GOR gas oil ratio 
+Is the ratio of produce gas to oil.
+Solution gas - oil ratio Rs
+The ratio of solution gas that is measured in scm/cubic meter.
+GOR in heavy oil 
+Is very low and is often an economical to capture the low pressure, low volume gas.
+A gas cap will form 
+And oil reservoir may contain an oil that has absorbed all the solution gas that I can take. If there is more gas present then can be absorbed by the oil, The oil is considered saturated and there will be free gas present in the gas cap above the oil.
+Under-saturated oil reservoir
+If all the gas is absorbed in the oil and there is no gas cap, the oil in the reservoir is considered under saturated reservoir conditions.
+Crude oil with a gas cap 
+Natural gas exists about the crude oil. It's later density causes it to rise and take the high points of the reservoir. Gas is also dissolved in the oil - term solution gas. The gas is released from the oil as the pressure decreases.
+Under saturated crude oil-pure liquid in the reservoir
+This type of reservoir is usually at fairly high pressure. All the gas in the reservoir has dissolved into the oil. When the oil is brought to the surface, the solution gas vaporizes and is separated from the oil. Under saturated reservoirs only remain under saturated until the pressure in the reservoir declines.
+Dry gas reservoirs 
+When the gas comes to surface no liquids are produced except water.
+Wet gas 
+Reservoirs are mostly methane but also contain heavy ends such a C3 and heavier. When the gas comes to surface, hydrocarbons liquefy as condensate.
+PVT analysis 
+Pressure- Volume - temperature
+PVT analysis essentially describes
+The state of the reservoir fluid when the pressure is X and the temperature is Y. - At A high pressure and low temperature, a reservoir fluid is likely to be liquid -at a low pressure and high temperature, the reservoir fluid is likely to be paper
+Critical temperature TC 
+Equals the critical temperature - compressed gas all you want and it's still too hot to form a liquid
+Critical PC 
+Pressure you would have to apply to get gas to liquefy
+Cricondem theorem 
+The max temperature above which liquid cannot be formed regardless of pressure.
+Cricondem bar 
+Iso-vol lines 
+Lines of equal volume of liquid. 
+In pulse testing, This parameter represents the total time length of a cycle, i.e., the shut-in period plus the flow or injection period.
+Cycle period ΔtC
+In pulse testing, This parameter represents the length of the flow or injection time.
+Flowing or Injection period Δtf
+In pulse testing, This parameter represents the elapsed time between the end of a pulse and the pressure peak caused by the pulse. THis is associated with each pulse and essentially describes the time required for a pulse created when the rate is changed to move from the active well to the observation well.
+Time lag tL
+In pulse testing, This parameter is the vertical distance between two adjacent peaks (or valleys) and a line parallel to this through the valley(or peak)
+Pressure response amplitude Δp
+Who proposed a pulse test analysis technique that uses the four dimensionless groups?
+Kamal and Brigham(1975)
+What is the ratio between the pulse period and the cycle period, introduced by Kamal and Brigham(1975)?
+Pulse Ratio F'
+In this test the well is shut in until the pressure is stabilized at initial reservoir pressure pi. At this time, the injection begins at a constant rate qinj, while recording the bottomhole pressure pwf.
+Injectivity test
+This test is usually
+preceded by an
+injectivity test of a long
+duration. This testing is
+analogous to pressure
+build-up testing in a
+production well. Also is
+concerned as the
+measurement and
+analysis of pressure
+data taken after an
+injection well is shut in.
+Pressure fall-off test
+These tests are
+specifically designed to
+determine the pressure
+at which fracturing
+Step-rate test
+5/20/2017 JUGAL Flashcards | Quizlet
+https://quizlet.com/154238074/jugal­flash­cards/ 12/24
+could be induced in the
+reservoir rock. In this
+test, water is injected at
+a constant rate for
+about 30 minutes
+before the rate is
+increased and
+maintained for
+successive periods,
+each of which alasts for
+30 minutes. The
+pressure observed at
+the end of each
+injection rate is plotted
+versus the rate. This plot
+usually shows two
+straight lines which
+intersect at the fracture
+pressure of the
+formation.
+This type of drive in the
+reserovir is
+characterized for water
+associated to one
+infinite active aquifer
+encroaching across the
+original hydrocarbonwater contact. Name it.
+Natural Water Drive
+This term refers to the
+water encroachment
+mechanism in which the
+rate of water influx
+equals the reservoir
+total production rate.
+These drive are
+typically characterized
+"Active"water drive
+5/20/2017 JUGAL Flashcards | Quizlet
+https://quizlet.com/154238074/jugal­flash­cards/ 13/24
+by a gradual and slow
+reservoir pressure
+decline.
+How can be classified
+the natural water drive
+based on the degree of
+reservoir pressure
+maintenance provided
+by the aquifer?
+As Active, Partial and Limited water drive
+This reservoir-aquifer
+system indicates that
+the effect of the
+pressure changes at the
+oil/aquifer boundary
+can never be felt at the
+outer boundary.
+Infinite system
+This reserovir-aquifer
+system indicates that
+the aquifer outer limit is
+affected by the influx
+into the oil zone and
+that the pressure at this
+outer limit changes with
+time.
+Finite system
+How can be classified
+the reservoir-aquifer
+systems on the basis of
+flow geometry?
+As edge-water drive, bottom-water drive, linear-water
+drive.
+In this natural water
+drive, water moves into
+the flanks of the
+reservoir as a result of
+hydrocarbon
+production and
+Edge-water drive
+5/20/2017 JUGAL Flashcards | Quizlet
+https://quizlet.com/154238074/jugal­flash­cards/ 14/24
+pressure drop at the
+reservoir-aquifer
+boundary. The flow is
+essentially radial with
+negligible flow in the
+vertical direction.
+This natural water drive
+occurs in reservoirs with
+large areal extent and a
+gentle dip where the
+reservoir-water contact
+completely underlies
+the reservoir. The flow is
+essentially radial and, in
+contrast to the edgewater drive, this water
+drive drive has
+significant vertical flow.
+Bottom-water drive
+In this water drive, the
+influx is from one flank
+of the reservoir. The
+flow is strictly linear
+with a constant cross
+sectional area.
+Linear-water drive
+A comparatively low,
+and decreasing, rate of
+reservoir pressure
+decline with increasing
+cumulative with drawals,
+a low rate of increase in
+produced GOR,
+calculation of
+increasing original oilin-place from
+successive reservoir
+pressure surveys by
+Fluid influx
+5/20/2017 JUGAL Flashcards | Quizlet
+https://quizlet.com/154238074/jugal­flash­cards/ 15/24
+using the material
+balance and assuming
+no water influx. These
+three, What are
+indicating?
+Mention four
+mathematical water
+influx models that are
+commonly used in the
+petroleum industry.
+Fetkovich, Schilthuis, Carter-Tracy, Van Everdingen and
+Hurst
+This is the simplest
+model that can be used
+to estimate the water
+influx into a gas or oil
+reservoir is based on
+the basic definition of
+compressibility, and it's
+only applicable to a
+small aquifer, whose
+dimensions are of the
+same order of
+magnitude as the
+reservoir itself. Name it.
+Pot Aquifer model
+Who pointed out that
+because the aquifer is
+considered relatively
+small, a pressure drop
+in the reservoir is
+instantaneously
+transmitted throughout
+the entire reservoiraquifer system?
+Dake (1978)
+Who proposed that for
+an aquifer that is flowing
+under the steady-state
+Schilthuis (1936)
+5/20/2017 JUGAL Flashcards | Quizlet
+https://quizlet.com/154238074/jugal­flash­cards/ 16/24
+flow regime, the flow
+behavior could be
+described by Darcy's
+equation?
+In the Schilthuis steadystate model for
+reservoir-aquifer
+model, How is called
+the parameter C and in
+which units is
+expressed?
+"Water Influx Constant" and expressed in bbl/day/psi
+Who proposed that the
+"apparent"aquifer radius
+ra would increase with
+time and, therefore, the
+dimensionless radius
+ra/re may be replaced
+with a time-dependent
+function?
+Hurst (1943)
+This flowing condition is
+defined as the time
+period during which the
+boundary has no effect
+on the pressure
+behavior.
+Transient (unsteady-state) condition
+Who solved the
+diffusivity equation for
+the aquifer-reservoir
+system by applying the
+Laplace transformation
+to the equation?
+Van Everdingen and Hurst (1949)
+This term is defined as
+the interface between
+the reservoir and the
+aquifer.
+Inner boundary
+5/20/2017 JUGAL Flashcards | Quizlet
+https://quizlet.com/154238074/jugal­flash­cards/ 17/24
+Who proposed a
+calculation technique
+that does not require
+superposition and
+allows direct calculation
+of water influx?
+Carter and Tracy (1960)
+This water influx model
+assumes constant water
+influx rates over each
+finite time interval. The
+accuracy of this method
+can be increased
+substantially by
+restricting the time step
+to one month.
+Carter and Tracy water influx model
+This model is based on
+the premise that the
+productivity index
+concept will adequately
+describe water influx
+from a finite aquifer into
+a hydrocarbon
+reservoir. That is, the
+water influx rate is
+directly proportional to
+the pressure drop
+between the average
+aquifer pressure and
+the pressure at the
+reservoir-aquifer
+boundary.
+Fetkovich method (1971)
+One of the largest
+oilfields in China,
+located in the northeast
+on China.
+Daqing
+5/20/2017 JUGAL Flashcards | Quizlet
+https://quizlet.com/154238074/jugal­flash­cards/ 18/24
+When was Daqing's
+discovering and
+production years?
+1959 and 1960
+Name the second
+largest oil field in the
+world which was
+discovered in 1936 and
+came into production in
+1946
+Burgan in Kuwait
+Which oil field in China
+had the top petroleum
+production by 2012?
+Changqing oil field
+Which oil field is iron
+man's hometown and
+called as "the cradle of
+China's oil industry".
+Yumen oil field
+Which country has the
+largest heavy oil
+reserves?
+Canada
+Name 5 Middle East
+Counties
+Egypt, Iran, Turkey, Iraq, Saudi Arabia, Yemen, Syria, UAE,
+Israel, Jordan, Lebanon, Oman, Kuwait, Qatar, Bahrain,
+Cyprus
+At the end of 2011, what
+are the 5 top countries
+in relation to the proved
+reserves of oil?
+Venezuela, Saudi Arabia, Canada, Iran, Iraq
+Total is one of the top 4
+petrochemical
+companies, whose
+headquarters are in
+France. Name the 3
+brands.
+FINA, ELF, Total
+Where and when was China, 347 A.D
+5/20/2017 JUGAL Flashcards | Quizlet
+https://quizlet.com/154238074/jugal­flash­cards/ 19/24
+the first oil well drilled?
+According to statistics
+released by BP, what is
+the daily oil production
+in U.S in 2011?
+7841 thousand barrels +/- 10.
+According to statistics
+released by EIA, (U.S
+energy information
+administration) whats
+the proved reserves of
+natural gas in U.S by
+2010?
+304.629 trillion cubic feet +/- 3.
+The most prolific oil
+reserves in the United
+States was not
+discovered until
+October, 1930. The East
+Texas Oilfield included
+Rusk, Upshur, Gregg
+and Smith countries.
+The company was the
+first small company to
+find oil in East Texas.
+Deep Rock Oil Company
+The seven sisters
+included Exxon, Mobil,
+Chevron, Texaco, Gulf,
+Royal Dutch/Shell, BP.
+What is the eighth
+sister?
+CFP, French Petroleum Company
+Prior to the oil crisis of
+1973, what percentage
+of the worlds
+petroleum reservers did
+the seven sisters
+control?
+85%
+5/20/2017 JUGAL Flashcards | Quizlet
+https://quizlet.com/154238074/jugal­flash­cards/ 20/24
+The global battle of
+production intensified
+the long-standing
+rivalry between the two
+key oil counties of the
+Middle East. What are
+the names of these two
+countries?
+Iran and Saudi Arabia
+During the economic
+depression, in autumn
+of 1930, the discovery
+of one oil field was the
+largest oil field ever
+found in 48 states.
+Name this field.
+the Black Giant
+When and by whom
+was Daqing oilfield
+discovered?
+1959, Li Sigiang
+Name the oil field which
+was the largest oil field
+discovered in 1995. It's
+also the largest oil
+industry company in
+western China.
+Karamay Oil Field
+In 1974, IEA
+(international energy
+agency) was
+established, what is it's
+purpose?
+To ease the impact of supply disruptions and avoid the
+boom of oil prices.
+For fear of German
+submarines, the
+Secretary of the Interior
+urged the industry
+executives to plan two
+Big inch and Little big inch
+5/20/2017 JUGAL Flashcards | Quizlet
+https://quizlet.com/154238074/jugal­flash­cards/ 21/24
+pipelines as an
+emergency measure to
+export Texas crude to
+other northeast states.
+Name them.
+Where is the highest
+drilling platform in the
+world, who built it, and
+when?
+1978 - Shell completed the Cognac drilling and production
+platform of the Gulf of Mexico
+What is the height of
+the highest drilling
+platform in the world?
+35m
+During WWII, the US
+was divided into 5
+petroleum
+administration for
+defence districts, or
+PADDS. Name these 5.
+East Coast, Midwest, Gulf Coast, Rocky Mountain, West
+Coast
+On which year did oil
+being to flow in the
+pipeline, which
+introduced a new stage
+in the history of oil
+marking the stage if
+Standards integration of
+the oil industry.
+1879
+When and where was
+the first oil refinery
+built?
+Scotland 1851
+Name the respective
+benchmark crude
+primarily used in the U.S
+and Europe.
+West Texas Intermediate, Brent Crude
+What is the world's The Safaniya field in the Persian Gulf.
+5/20/2017 JUGAL Flashcards | Quizlet
+https://quizlet.com/154238074/jugal­flash­cards/ 22/24
+largest offshore oil
+field?
+What are the top three
+oil producing
+countries?
+Russia, Saudi Arabia, United States
+When was the first US
+natural gas well
+discovered?
+July 1815
+When was the RussiaChina oil pipeline
+opened?
+January 2011
+When and when was
+the Deep Water
+Horizon Disaster?
+April 20 2010 - Gulf of Mexico
+How high is the Troll A
+platform and where is it
+located?
+472 meters high overall, installed in 1996 in Norway
+offshore. It weighs 656,000 tonnes.
+Where and when was
+the Burgan discovered?
+Kuwait, 1938 but it didn't begin production until 1948.
+How much does the
+Burgan oil field
+produce?
+Between 1.1-1.3 million bpd
+What is the worlds
+largest offshore oil
+field, where is it
+located?
+Safaniya in Saudi Arabia located in the Persian Gulf
+What is Saudi Arabia's
+largest producing field?
+Ghawar, followed by Safaniya
+How much does the
+Safaniya field produce?
+1.5 million bpd
+What is the largest
+conventional oil field in
+the world?
+Ghawar, in Saudi Arabia
+5/20/2017 JUGAL Flashcards | Quizlet
+https://quizlet.com/154238074/jugal­flash­cards/ 23/24
+When was Ghawar
+discovered and when
+did it start production?
+1948, and 1951
+How much does
+Ghawar produce?
+5 million bpd
+What is Iraq's largest oil
+field?
+Rumaila
+Who owns Rumaila, and
+how much does it
+produce?
+BP and CNPC, 1.5 million bpd
+What is Iraq's second
+largest oil field?
+West Qurna-2
+Which oil company has
+the highest oil
+production?
+Saudi Aramco
+Top 5 oil producing
+companies
+Saudi Armco, Gazprom, National Iranian Oil Company,
+ExxonMobil, PetroChina
+List current total world
+oil reserves
+1.652 trillion barrels
+Which country
+continues to uphold the
+first European ban on
+hydraulic fracturing as
+environmentally
+insensitive?
+France
+Name the shale play
+that extends from the
+north United States into
+Saskatchewan Canada.
+Bakken
+What was the United
+States daily average
+consumption of
+18.5 million bbl/day

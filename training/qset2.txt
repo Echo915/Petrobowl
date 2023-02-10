@@ -1,0 +1,474 @@
+401.Everette DeGolyer was the first American to estimate the oil reserves in the Middle East. How much w ere the reserves that DeGoyler estimate?
+25.0
+402.The California-Arabian Standard Oil Company (CASOC) was the partnership between which two Ame rican oil companies?
+Socal and Texaco
+403.Signed on August 8, 1944, the Anglo-American Petroleum Agreement was collaboration between the U.S. and Britain to establish the 8-member International Petroleum Commission. What were the two pr imary duties of the Commission?
+Prepare estimates of global oil demand and allocate suggested production quotas to various countries
+404.Name four of the six members of the Iraq Petroleum Company in 1946?
+Jersey, Socony, Shell, Anglo-Iranian, CFP, Participants & Investments
+405.In 1947, Aramco merged with Jersey and Socony. What percentage of the company did each new partn er receive?
+Jersey – 30%, Socony – 10%
+406.What agreement in the original Iranian Petroleum Company contract was the major stumbling block to the Aramco merger with Jersey and Socony?
+The Red Line Agreement
+407.Which two companies had a unique purchase-and-sale agreement to get Kuwaiti oil to European marke ts?
+Gulf and Dutch Shell Group
+408.In 1947, which company was the first to successfully drill for oil in the offshore Gulf of Mexico?
+Kerr-McGee
+409.In 1947, Los Angelese was hooked up by large-diameter pipe to the gas fields of New Mexico and West Texas. What was the name of this pipeline, and who was its owner?
+Biggest Inch; El Paso Natural gas
+410.The first successful well in the Neutral Zone was drilled in March 1953. Who originally identified the geologic structure where the well was drilled?
+Paul Walton
+411.The Saudi Arabian Neutral Zone concession was won in 1948 for $9.5 million upfront, a guaranteed $1 million/year and 55¢/bbl royalty. What company won this concession and who was the company’s owner?
+Pacific Western, J.P. Getty
+412.In 1947, Aminoil, a consortium including Phillips, Ashland, and Sinclair, won the concession to which Middle East oil field for $7.5 million in cash, minimum $625,000/year royalty and 15% of the profits?
+Kuwait Neutral Zone concession
+413.Which country was the first to adopt the 50/50 principle?
+Venezuela
+414.During the 1950s, three other countries reworked their concession agreements to include the 50/50 prin ciple. Name these three countries.
+Saudi Arabia, Kuwait, Iraq
+415.What program was initiated in late 1956 to address limited oil supply to Western Europe during the Suez crisis?
+Oil Lift
+416.Which country seized control of the Suez Canal in July 1956 starting the Suez Crisis?
+Egypt
+417.Which oil industry technical improvement was a direct result of the Suez Crisis?
+Super-Tankers
+418.In September 1954, an agreement was signed between a new consortium of nine Western companies and the National Iranian Oil Company. Name these nine companies.
+Anglo-Iranian, Jersey, Socony, Texaco, Standard Oil of California, Gulf, Shell, CFP, and Iricon
+419.When did the Iranian government pass a resolution to nationalize their oil industry?
+March 1951
+420.Who was the Iranian Prime Minister who had to be deposed before an agreement between Anglo-Iranian and the NIOC would be reached because of his bitter hatred of Anglo-Iranian?
+Mohammed Mossadegh (Old Mossy)
+421.Name the seven sisters.
+Jersey, Socony-Vacuum, Standard Oil of California, Texaco, Gulf, Royal Dutch-Shell, BP
+422.Following the Italian’s agreement with the National Iranian Oil Company in which Iran received 75% of the profits, which two other companies made agreements with Middle Eastern countries that did not follow the standard 50/50 principle.
+Arabian Oil Company & Standard of Indiana
+423.The Gentleman’s Agreement, signed during the 1959 Arab Oil Congress, is seen as the beginning of the alliance that would develop into OPEC. Name the five countries present at this preliminary meeting.
+Venezuela, Saudi Arabia, Kuwait, Iran and Iraq
+424.Who are the five founding countries of OPEC?
+Saudi Arabia, Venezuela, Iraq, Iran, Kuwait
+425.Significant oil deposits were discovered in four African countries during the 1950s. Name these four countries.
+Gabon, Algeria, Nigeria, Libya
+426.Which company hit big at Zelten in Libya in April 1959?
+Jersey
+427.The Mandatory Oil Import Program put into effect on March 10, 1959, restricted oil imports to the United States to what percentage of consumption?
+0.09
+428.Continental Oil Company, later Conoco, formed as a result of a merger between which two companies in 1929?
+Rocky Mountain Marketing Company, OK-based Crude Producer and Refiner
+429.Henry Darcy began his work on fluid fluid flow while designing the fountains of this French city?
+Dijon, 1856
+430.The Forties pipeline needed to be shut in on August 1, 2011 to fix what problem?
+Removing a nearby unexploded WWII mine
+431.Chevron and Gulf Oil Merged when?
+1984.0
+432.When the standard trust broke up in 1911, what was the Chevron Branch called
+Socal
+433.Where is Saudi Aramco headquartered
+Dhahran, Saudi Arabia
+434.Largest oil field in the world?
+Ghawar Field
+435.What company was first granted concessions in Saudi Arabia?
+SOCAL
+436.Royal Dutch Shell's HQ?
+The Hague, Netherlands
+437.When was the tricone bit invented?
+1933.0
+438.What year did NYMEX start trading oil futures?
+30376.0
+439.Who arranged the meeting of Juan Pablo Alfonzo and Abdullah Tariki at the 1959 Cairo Oil Congress?
+Wanda Jablonski
+440.This is the term for a section of earth raised between two faults.
+Horst
+441.This term or unit represents the hydrogen-ion concentration in a substance.
+pH
+442.What country was the first to start a "50-50" agreement between a foreign operator and the national government?
+Venezuela
+443.This is the name of a contract signed in July 1928 between several major oil companies (including Royal Dutch and Anglo-Persian) and that created a oil cartel in ex-Ottoman Empire territory.
+Red Line Agreement
+444.This commonly used temperature scale in the industry named after a Scottish engineer has absolute zero set at 0 degrees while using Fahrenheit as its incremental degree.
+Rankine
+445.This term describes the apparent weight loss of an object immersed in fluid.
+Buoyancy
+446.Name two assumptions for Lame's equation.
+Linearly elastic, homogenous, isotropic, and 2-D
+447.This is constant when experiencing a Joule-Thompson effect.
+Enthalpy
+448.This well log makes a record of the borehole diameter, which is usually constantly changing.
+Caliper Log
+449.This is a type of sedimentary rock similar to limestone but rich in magnesium carbonate. It can also be a reservoir rock for petroleum sources.
+Dolomite or CaMg(CO3)2
+450.This is the name for a wellbore completion that enables production from two separate zones.
+Dual Completion
+451.This is the most common form of Artificial Lift used for offshore purposes.
+Gas Lift
+452.This is the name for the classification system used for carbonate sedimentary rocks developed in 1946.
+Dunham classification, Robert J. Dunham
+453.Name the 6 types of reservoirs by the type of fluid produced.
+Dead(Heavy) Oil, Black Oil, Volatile Oil, RCG, Wet Gas, Dry Gas
+454.ExxonMobil drilled the deepest producing oil well in the world in Russia. What is the name of the oilfield and how deep is it in feet?
+Chayvo, 40604 feet
+455.What is the current US rig count?
+1754 rigs
+456.Who believed the Middle East to be the "greatest prize in history" due to its oil reservoirs, and the inspiration for Daniel Yergin's book The Prize?
+Everett Lee DeGolyer
+457.This German company conducted research on synthetic fuels for Germany's war effort during WWII.
+I.G. Farben
+458.This is the name given to permanently frozen soil or earth that can often cause problems for industry operations.
+Permafrost
+459.Oil and Gas are considered to be organic because they have this.
+Carbon
+460.What event was most responsible for the increased in oil prices in 1974?
+Arab Oil Embargo
+461.The functional segments Exploration and Production, or E&P, can also be referred to by this one wordcommonly used in the industry.
+Upstream
+462.Drilled solids in mud act to increase what two characteristics of the mud?
+Density and Viscosity
+463.On a drilling rig, the fast line and the static line through the blocks have the same force only in this situation concerning the drilling blocks.
+Blocks are stationary
+464.Name a common reservoir production model that can be used below the bubble point of the reservoir.
+Vogel's Equation
+465.This is a clay commonly used in salt water applications that is a fiber-like clay that builds viscosity with agitation
+Attapulgite
+466.What is the recommended pressure (psi) used for a standard API filtration test?
+100 psi
+467.Name two positive displacement pumps.
+PCP and Beam Lift (Rod Pump)
+468.If a lower permeability sand was present at the same depth, would the water saturation in that sand be higher, lower or the same as in Sand A?
+higher
+469.Calculation: The capillary pressure for Sand A is measured to be 10 psi at a Sw of 0.4. The density of water is 62 lbm/ft3 and the density of oil is 50 lb/ft3. At what height above the water table is the water saturation going to be 0.4.
+120 Ft
+470.Name 2 types of well tests I can conduct to construct an Inflow Performance Relation, or IPR.
+Flowing Test, Gas Lift, Swab, Jet, Pump Assisted Test
+471.When someone mentions a 2:1 clay mineral such as smectite, what do the "2" and the "1" represent.
+2 is number of tetrahedral sheets, 1 is number of octahedral sheets
+472.Calculation: The permeability of two rocks is measured to be 1 md and 144 md respectively. If the average pore size of the high permeability rock is 24 microns, estimate the average pore size of the lower permeability rock (porosity is constant)
+2 microns
+473.As the number of rotor and stator lobes increases (i.e. 9:10 compared to a 3:4), what happens to torqueand rotational speed?
+Torque goes up, Speed goes down.
+474.A gear box on a beam pump reduces these two things.
+Torque, speed
+475.A water-wet solid surface is characterized by a contact angle of ?
+theta < 90 degrees
+476.What drainage shape has the largest shape factor CA of 31.62?
+Cylinder
+477.This k-factor often used in reservoir engineering applications relates particle energy to temperature and is named after this Austrian physicist.
+Ludwig Boltzmann
+478.This diagram or relation commonly used in the industry to assess rod life and rod failure for artificial lift applications is named after this English scientist.
+Goodman
+479.This mathematical and engineering object is characterized as a geometric object that has a magnitude and direction.
+Vector
+480.Calculation: I have a reservoir characterized by exponential decline that has a decline rate of -0.01 1/day with an initial production of 5000 barrels/day. The field is currently producing 3000 barrels/day. What is the predicted ultimate recovery?
+200,000 barrels
+481.Wellbore breakout occurs along the azimuth of which principal stress?
+Shmax
+482.When using an ultrasonic televiewer image, what mathematical shape describes the image of a fracture that slices the wellbore at an angle?
+Sinusoid, Sinusoidal
+483.When the rate of sediment deposition is greater than the rate of escape of fluids in the reservoir, this will result in a overburden pressure gradient > 1 psi/ft. What type of reservoir is this?
+Overpressured
+484.This type of decline curve is characterized by a b-factor of 1.
+Harmonic
+485.Calculation: I hold a 2 kg object 5 meters off the ground. How much potential energy does the object have in joules?
+100 J
+486.This thermodynamic principle mentioned by Van der Waals indicates that all fluids at the same reduced temperature and pressure have the same compressibility factor and deviate from ideal gas behavior to the same degree.
+Principle of corresponding states
+487.This thermodynamic variable is equal to the pressure of an ideal gas that has the same chemical potential as the real gas. In other words, it becomes equal to the pressure of the fluid at pressures low enough that the fluid approaches ideal gas state.
+Fugacity
+488.What is the maximum number of coexisting phases at equilibrium for a pure fluid?
+Three, 3
+489.Above ice's melting point, does the specific volume of the substance increase or decrease?
+decreases
+490.This cycle developed by a French engineer demonstrates the most efficient cycle for converting thermal energy into work, or extracting the most work from a given flow of heat between two temperature baths.
+Carnot cycle
+491.If I treat my drilling mud with lignosulfonate, I likely have this type of problem or issue.
+Flocculation
+492.Why would an operator choose to conduct a Methylene blue test on drilling mud?
+Determine CEC or bentonite clay content of the mud
+493.During drilling, if the shale formation has an activity of 0.7 and the shale starts to fracture and I see a reduced mud weight, what is a reasonable value for the activity of the drilling mud?
+ 0.7
+494.An ExxonMobil pipeline carrying oil from the Wabasca oil field in Canada had a leak on March 29, 2013. What is the name of the Arkansas town affected by the spill?
+Mayflower, Arkansas
+495.What Las Colinas, Dallas based oil company is traded on the NYSE under the symbol “PXD”?
+Pioneer Natural Resources
+496.What is the name of the SPE International chapter that New Orleans is a part of?
+SPE Delta Chapter, Delta
+497.Who is the president of the SPE Delta chapter?
+Paul Morphy III, Shell Offshore, Inc.
+498.What is the name of this New Orleans-based oil company founded in 1984 whose CEO is Mr. J. Luis BaSos?
+ORX Resources, private
+499.In what year did SPE’s first female president serve and what is her name?
+1998, DeAnn Craig
+500.Name the last five SPE Presidents (2009-2013)
+Roodhart, Fattahi, Labastie, Thakur, Imomoh
+501.This Calgary-based oil company became a subsidiary of this Chinese-based oil company on February 25, 2013. Name both companies.
+Nexen Energy, CNOOC Energy.
+502.What is the total membership of SPE (professional and students)
+104762.0
+503.According to the 2012 BP Statistical Review, name the top 5 Gas Producers in South America from High to Low
+Trinidad&Tobago, Argentina, Venezuela, Brazil, Bolivia
+504.According to the 2012 BP Statistical Review, what is worldwide oil production?
+83.576 MMBO/day
+505.According to the 2012 BP Statistical Review, what are US natural gas reserves?
+300 TCF
+506.You may know Sheikh Khalifa Bin Zayed Al Nahyan as the head of the Supreme Petroleum Council and the head of this major national oil company.
+ADNOC, Abu Dhabi NOC
+507.This Canadian-based pipeline and transportation company has been lobbying hard for the Keystone XL pipeline, which would transport heavy oils from Canada oil sands to the Gulf Coast.
+TransCanada
+508.What is the price of WTI crude oil?
+$92.64/bbl
+509.This former CEO for a well-known Oklahoma-based gas producer was recently voted by shareholders to no longer return to his position and retire.
+Aubrey McClendon
+510.This is a Pulitzer Prize winning American author who is the chairman of Cambridge Energy Research Associates.
+Daniel Yergin
+511.In October 2011, this American energy company bought El Paso Corporation in a 21.2 billion deal thatmade the company the biggest U.S. Pipeline operator.
+Kinder Morgan Inc.
+512.The US Strategic Petroleum Reserve is the largest emergency oil supply in the world with the capacityto hold up to how many million barrels of oil?
+727 million
+513.On a F vs Eo, or total withdrawal vs oil expansion graph, a reservoir will be linear under this condition.
+No water influx, no aquifer
+514.I am producing a dry gas reservoir and create a P/z plot for the reservoir and extrapolate my data until I hit a cumulative gas estimate of 50 BCF. If I later realize my reservoir is under a natural water drive, will my new cumulative gas estimate be higher or lower than 50 BCF?
+Lower
+515.How many isomers does Pentane have?
+Three, 3
+516.Regarding phase behavior, this is the point where 3 phases coexist in equilibrium.
+Triple Point
+517.On a phase diagram, this is the term given to a line of highest temperature where a mixture can exist intwo phases.
+Cricondentherm
+518.Name the two most common elements in the Earth's crust?
+Oxygen, Silicon
+519.This is the name of a vessel that breaks oil-water emulsions so that oil can be accepted by pipeline or for transport
+Heater Treater
+520.This commonly used solids carrier for fracture treatments undergoes frequent price swings as most of the material comes from farms in India.
+Guar Gum
+521.Calculation: in psi/ft, what is the pressure gradient for 11 ppm mud?
+0.572 psi/ft
+522.The tensile strength of standard cement is roughly ______ times less than the compressive strength?
+10-12x
+523.The main difference between the Driller's Method and the Wait and Weight method of killing a well is?
+Number of mud circulations, driller's is 2, W&W is 1.
+524.In a meeting, someone mentions a C228D model pumping unit. What does the "228" stand for?
+228K or 228000 in-lbs torque rating on the gear box.
+525.Where is the SPE Offshore Technology Conference, or OTC, held every year?
+Houston, Texas
+526.Concerning geostatistical or other statistical analysis, what relationship do standard deviation and variance have?
+SD = sqrt(variance) or Variance = SD^2
+527.Who is the CEO for Petrobras?
+Maria das Gracas Foster
+528.In 1923, this Texas company developed the industry's first enclosed, geared pumping unit.
+Lufkin
+529.In 2007, two countries joined OPEC and are its newest members. Name one.
+Angola, Ecuador.
+530.What is the equation for the minimum porosity in a dispersed shale?
+Porosity = sand porosity * shale porosity
+531.This is the name where molecules of natural gas, usually methane, are trapped in ice molecules.
+Methane Hydrate, Clathrate
+532.This is a device run during drilling with a smaller initial outside diameter that expands to seal the wellbore. They often use flexible, elastic elements to expand.
+Packers
+533.Calculation: What is the NPV of receiving $500,000 in 5 years with a discount factor of 10%. Assume no costs. On J55 casing, what does the "55" stand for?
+55,000 psi minimum yield strength
+534.What year was the first petrobowl held and who won it?
+2002, Texas Tech
+535.What is the only school to have won petrobowl 3 times?
+OU
+536.What type of faulting regime has Sv at its largest principal stress and Shmin as the smallest?
+Normal
+537.What is the name of the commonly used correlation to estimate fracture pressure?
+Eaton's Correlation
+538.A marsh funnel is used on a rig to determine this.
+Viscosity
+539.What equation represents Boyle's Law?
+PV1 = PV2.
+540.This company received the first post-moratorium drilling permit in the Gulf of Mexico on February 28, 2011.
+Noble Energy
+541.With an estimated recoverable 9 billion bbls of recoverable oil, this Chevron-operated field is located in Kazakhstan. This field is also one of the deepest onshore producing fields, what is its name?
+Tengiz
+542.The derrick received its name from Thomas Derrick, a 17th century Englishman that invented a system of ropes and pulleys for his occupation that would later become the inspiration for a drilling derrick. What is his occupation?
+Executioner, Hangman
+543.At what level or percentage of sulfur content is crude oil considered to be sour crude oil?
+0.0050
+544.Name the process of physical, chemical, or biological alteration of sediments during or after they havebeen deposited.
+Diagenesis
+545.What percentage of SPE membership is comprised of students?
+0.29
+546.This Cajun-inspised term is used to describe the soft and sticky formation encountered when drilling th at plugs up drilling tools, piping, and shale shaker screens.
+Gumbo
+547.This material is a solid that begins to form on catalysts used on cracking processes and refineries.
+Coke
+548.In what decade was the first horizontal well drilled in Texon, Texas?
+1920s (1929)
+549.Name 4 components of an ESP, or electric submersible pump.
+Rotor, stator, motor, diffuser, impeller
+550.In May 2012, this US state became the first to ban hydraulic fracturing, or fracing.
+Vermont
+551.Name the year the petroleum branch of AIME became a full-fledged professional society that would become SPE.
+1957.0
+552.Name the country that is the world's leading LNG exporter that has received recent publicity for hosting the 2022 FIFA world cup.
+Qatar
+553.Name the first European country to ban the use of hydraulic fracturing.
+France
+554.Name the first place winner of the 2011 International student paper contest held at the undergraduate division.
+Parag Bandyopadhyay
+555.What is the name for the chemical that is frequently used to alter mud pH levels while drilling.
+Lime
+556.This sand from St. Peters sandstone is used as proppant in hydraulic fracturing in the USA and gets its name from this city in Illinois. Name the city.
+Ottawa
+557.This class of cement, according to API, is intended for use at depths of 10000-14000 feet at high temperatures and pressures. Name the class.
+Class G cement
+558.In the US, under what flow is an oil or gas well classified as a stripper well? (oil and gas rate)
+60 MCF, 10 BBL/day
+559.Compaction drive is defined as the expulsion of fluids due to the dynamic reduction of what reservoir property?
+Porosity
+560.When a source rock is examined under a reflectance microscope, the amount of light reflected by this plant organic matter helps define the maturity of the source rock. Name this organic matter.
+Vitrinite
+561.Name 2 components of a traditional pumping unit.
+Etc, etc
+562.What was the original name of the NYMEX, the world's largest physical commodity exchange, where billions of dollars in energy products and metal are bought and sold every day?
+The Butter and Cheese Exchange
+563.What country is the number one source of U.S. oil imports, providing around 25% of US oil imports.
+Canada
+564.What former scientist became the first world leader to give a major policy speech on climate change in 1988?
+Margaret Thatcher
+565.How many times has UT won Petrobowl?
+twice, 2x
+566.Carbonate sedimentary rock composed of mostly calcite is what
+limestone
+567.What equation relates capillary pressure to interfacial tension?
+Young-LaPlace
+568.Identify the aspect of logging that employs an electrical cable to lower tools into the borehole and is distinct from measurements while drilling and well logging
+Wireline
+569.In the early 1800s, saltmakers frequently hit oil or gas in their drilling. These byproducts were considered a nuisance. In this state, so much oil was diverted to the Kanawha River by salt manufacturers that it was known as "Old Greasy" to boatmen.
+West Virginia
+570.This company is publically traded under both the Toronto Stock Exchange and the New York Stock Exchange with a ticker of TSX
+TransCanada
+571.The underground process of "diagenetic override" leads to a reservoir characterized as?
+tight
+572.The world's first attempt at a long-distance pipeline would successfully connect the Oil Regions with the Pennsylvania and Reading Railroad. What name was this pipeline given?
+Tidewater Pipeline
+573.On October 6, 1957, the first Board of Directors meeting was held in Dallas, Texas, with President John H. Hammond presiding. To what organization did this meeting belong to?
+The Society of Petroleum Engineers - of AIME
+574.On March 31, 2012, this oil rig owned by Shell ran aground off the coast of Alaska.
+The Kulluk
+575.What 3 states account for over half of all domestic refining capacity?
+Texas, Louisiana, California
+576.The Texas Company, started by Joseph Cullinan, would change its name in 1906 to?
+Texaco
+577.Type 3 kerogens usually form from what type of organic material and tend to produce what type of hydrovcarbons?
+terrestrial plant material, natural gas
+578.A joint of C75 casing has the following characteristics: an OD of 4.5 inches, an ID of 3.92 in, 13.5 lbs/ft. Calculate wall thickness, and minimum yield strength, in PSI of this casing.
+0.29 and 1575000 psi
+579.This diagram can be used to determine the overall, vapor phase, and liquid phase compositions of 3 separate components at one temperature and pressure.
+Ternary Diagram
+580.This isotherm is required in the modeling of coalbed methane production. It represents the amount of material bound at the surface as a function of the material present in the solution.
+Sorption or adsorption
+581.A multiphase-fluid flow regime characterized by a series of liquid plugs seperated by relatively large gas pockets.
+slug flow
+582.The coefficient of isothermal compressibility has the unit of inverse psi, more commonly known as what in the industry?
+sip
+583.An important area for Gazprom because it produces 95% of Russia's Natural Gas. Name this region that is often associated with tundra.
+Siberia
+584.This ULCC supertanker held the record of longest ship ever built and largest capacity of any ship. Give just one of her names.
+Seawise Giant, Happy Giant, Jahre Viking, Knock Nevis
+585.What important additive addition could be made to a Portland cementation to improve its high-pressure / high-temperature (HPHT) stability
+Sand/Silica Flour
+586.A laboratory device used to measure the way in which a slurry flows in response to applied forces.
+rheometer
+587.The color of petroleum is determined largely by what two components?
+Resins and Asphaltenes
+588.This refined product is publically traded through the NYMEX with the trading symbol of RB
+reformulated gasoline blendstock for oxygen blending
+589.Before allowing futures trading of Oil & Gas, NYMEX was well known for it's futures trading on what crop?
+Potato
+590.When a material is compressed in one diection, it usually tends to expand in the other two directions perpendicular to the direction of compression. This phenomenon is called the
+Poisson effect
+591.The act of drilling with the mud pressure greater than the formation pressure is known as
+Overbalanced Drilling
+592.Above what Reynolds number does flow in a porous medium become non-Darcy flow?
+Order of 1
+593.What is the primary disadvantage of using explicit time-stepping in a reservoir simulator?
+Numerical instability or limited time-step duration
+594.A Naval Petroleum Reserve is an area with probable or poven oil reserves in the U.S. that was widthdrawn from oil exploration by Congress in 1923 for defense purposes. Name two locations of such reserves.
+North Slope of Alaska, Elk Hills and Buena Vista, CA, Teapot Dome, Wyoming
+595.In reservoir simulation, Peaceman's correction is used to model what part of the reservoir?
+Near-well region
+596.A positive displacement motor that is used in drilling a deviated hole that has more than one angular deflection point in the motor housing.
+multibend motor
+597.This instrument determines the amount of oil, water, and solids in drilling mud.
+Mud Retort
+598.What are the 3 data transmission methods used for MWD?
+Mud pulse telemetry, Electromagnetic telemetry, Wired Drill Pipe
+599.This modern day company began as The Ohio Oil Company in 1887 before being bought by Standard Oil in 1889 and later by United States Steel in 1982.
+Marathon Oil Company
+600.Calculate the mass of methane gas contained at 1000 psia and 68F in a cylinder with volume of 3.2 ft3. Assume that methane is an ideal gas.
+m=9.1 lb
+601.Turbidite deposits would most likely be found in which systems tract of the classic sequence stratigraphic model?
+lowstand systems tract
+602.A procedure for calibration of permeability data obtained from a minipermeameter device. This is usually done when the pore space approaches the mean free path of the gas.
+Klinkenberg Correction
+603.This man used the phrase “the Great Game”— the struggle to accomplish and build, and the drive to make money, both for its own sake and as a register of achievement. Who was he?
+John D. Rockefeller
+604.If the size of the grains of a beadpack were double, how much would the permeability change (all elsebeing equal)?
+It would be 4 times larger
+605.In the subsurface, is the total compressibility of a dry steam reservoir (single phase, no liquid water present) higher, lower, or about the same as a saturated (two-phase steam and water) reservoir at the same pressure?
+It is much lower.
+606.A semi-log plot produced during pressure buildup analysis is known as
+Horner plot
+607.This French engineer was working as the Inspector General of Bridges and Highways in Paris when he modified the Prony Equation into the well-known form we use today.
+Henry Darcy
+608.a sweet-tasting synthetic ingredient used in toothpaste and other products -- is a petrochemical derived from oil.
+Glycerin
+609.Name the two largest conventional oil fields in the world, and their location
+Ghawar Field in Saudi Arabia and Burgan Field in Kuwait
+610.In a normal faulting regime (with isotropic horizontal stress), which of the following faults is more likely to slip in response to an increase in pressure? Vertical fault, fault dipping 60 degrees, fault dipping 4 5 degrees?
+Fault dipping 60 degrees
+611.Name 3 of the mainland central american countries with no proven reserves of crude oil, as of Jan 1st, 2011.
+El Salvador, Honduras, Costa Rica, Panama
+612.Arrange the following minerals in order from densest to lease dense: quartz, dolomite, calcite
+dolomite, calcite, quartz
+613.This SPE award is given to outstanding faculty of Petroleum Engineering and has been awarded to such Professors as Dr. Sharma, Dr. Pope, Dr. Caudle, and Dr. Lake.
+Distinguished Achievement Award for Petroleum Engineering Faculty
+614.Determine the number of barrels of water weighing 8 ppg required to reduce 100 bbl of 14 ppg mud to 12 ppg mud
+54.5 bbl
+615.Home to some of the world's largest recent oil discoveries, Brazil is an important Latin American power. Name the President of Brazil.
+Dilma Rousseff
+616.Soft sediment deformation is most typical in which facies of deltaic deposits?
+delta front facies
+617.What is the D/t (“D over t ratio”) in casing design and how does it affect it?
+D/t stand for casing diameter over wall thickness and affects burst and collapse design
+618.A water pump and a steam compressor operate with the same inlet pressure and outlet pressure at the same mass flow rate. Which one require greater power input?
+Compressor
+619.This physical characteristic is the temperature at which wax begins to solidify and is identified by the onset of turbidity as the temperature is lowered
+Cloud Point
+620.What is the name given for the 1D water flood problem that has an analytical solution?
+Bulkley-Leverette
+621.List two common types of pressure transient analysis?
+Buildup and drawdown tests
+622.This type of motion is the presumably random moving of particles suspended in a fluid (liquid or gas) resulting from their bombardment by the fast-moving atoms in the gas or liquid.
+Brownian Motion
+623.Uncontrolled discharge of formation fluid out of the wellbore is known as
+Blowout
+624.The equation that relates chemical reaction rates to the temperature and includes such terms as Activation Energy, Temperature, and the universal gas constant.
+Arrhenius Equation
+625.Name the first well surveying tool to be used
+Acid Bottle
+626.What is a semiveriogram?
+A statistical tool that measures the spatial correlation or continuity in geophysical data
+627.One bbl of oil accounts for approximately how many gallons of diesel fuel?
+9.21 gallons
+628.What is the approximate pressure at the bottom of an open tank 10 ft in height and 2 ft in diameter that contains water at STP?
+4.33 psia
+629.In petrophysics, what is Stone's model used to predict?
+3-phase relative permeability
+630.What is the standard length of drill pipe?
+30 Ft
+631.The US has approximately how many miles of oil pipelines within its borders?
+200,000 miles
+632.Laboratory analysis of a typical black oil will indicate an initial oil formation volume factor of
+2.0 res bbl/STB
+633.If pore diameter in a rock is reduced by half, how much does the capillary entry pressure increase according to the Washburn equation?
+2 times
+634.Flowrate of a 1 cP fluid in a 1 m pipe is 1 cm3/s at a pressure drop of 10 psi. If the radius is doubled, what is the new flowrate?
+16 m3/s
+635.This temperature window allows for the creation of crude oil from organic matter in sedimentary rocks. What are these values?
+150-300F
+636.A sandstone with 25% porosity completely saturated with water of resistivity of 0.05 ohms has a measured resistivity of 0.8 ohms. What would the measured resistivity be if the water resistivity is 0.1 ohms?
+1.6 ohms
+637.The recovery of mobile oil directly related to the degree of compartmentalization or complexity of a reservoir is known as the
+Beg Analysis
