@@ -23,8 +23,7 @@ The "z" factor is the ratio of the volume actually occupied by a gas at a given 
 12. What is the equation for gas specific gravity? 
 Yg = Pg/P-air
 13. What do the variables represent in the gas specific gravity equation? 
-Yg is the specific 
-gravity of the gas? Pg is the density of the gas, and P-air is the density of dry air.
+Pg is the density of the gas, and P-air is the density of dry air.
 14. What would the pressure be in a black oil reservoir at discovery? 
 Either above the bubble point or equal to the bubble point pressure
 15. What are the two types of chemical bonds? 
@@ -221,7 +220,8 @@ Fire Flood
 Gas Flood
 111. What is the absorption of fluids into the pores of a rock? 
 Imbibition
-112. This fraction of the pore space occupied by water when the hydrocarbon content is at its maximum. This level of water can only be reduced by flow of a very dry gas that evaporates the water? Irreducible water Saturation
+112. This fraction of the pore space occupied by water when the hydrocarbon content is at its maximum. This level of water can only be reduced by flow of a very dry gas that evaporates the water? 
+Irreducible water Saturation
 113. Who was a correspondent for Petroleum Week and the founder of Petroleum Intelligence Weekly? 
 Wanda Jablonski
 114. In 1960 who became the new chairmen of the Standard Oil of New Jersey? 
@@ -284,8 +284,7 @@ Royal Dutch
 June 1902
 143. In November of 1902 who was it that obtained the great honour of Lord Mayor of London? 
 Marcus Samuel
-144. When the Asiatic Petroleum Company was constructed in July 1903, who was is that took 
-over as chairman for the company? 
+144. When the Asiatic Petroleum Company was constructed in July 1903, who was is that took over as chairman for the company? 
 Marcus Samuel
 145. Who was the Dutch Engineer who had rescued Royal Dutch with new discoveries in Sumatra? 
 Hugo Loudon
@@ -333,8 +332,7 @@ Continental Oil Company
 1970
 167. On December 26, 1967 the largest oil field in North America was discovered. What is the name of this field? 
 Prudhoe Bay, Alaska
-168. Who built Occidental Oil Company into one of the world's great energy companies in 
-late 1960s? 
+168. Who built Occidental Oil Company into one of the world's great energy companies in late 1960s? 
 Dr. Armand Hammer
 169. What was the nick name the chairman of Occidental, Armand Hammer? 
 The Doctor
@@ -342,8 +340,7 @@ The Doctor
 Nixon
 171. What decade marked the end of the 20-year surplus of oil? 
 1970s
-172. What caused the Texas Railroad Commission to allow all out production at 100 percent 
-of capacity of oil fields in 1971? 
+172. What caused the Texas Railroad Commission to allow all out production at 100 percent of capacity of oil fields in 1971? 
 Diminishing surplus of oil and increasing demand for oil in the United States.
 173. During what decade did free world oil demand grow by 21 million barrels per day? 
 1960 - 1970
@@ -493,7 +490,8 @@ Posted barge submersible, Bottle-type submersible, Arctic submersible
 Dynamic Positioning
 246. When the wellhead and blowout preventers are mounted on the seafloor what connects the blowout preventer to the rig? 
 Marine Riser
-247. To what depth of water is a semisubmersible rig capable of drilling in? ~7500 ft ~(2200 m)
+247. To what depth of water is a semisubmersible rig capable of drilling in? 
+~7500 ft ~(2200 m)
 248. What types of rigs usually utilize a subsea blowout control system? 
 Drilling ships and semisubmersibles
 249. What is the most poisonous gas encountered in drilling operations 
@@ -506,8 +504,7 @@ Rotary Tachometer
 Pump Rate Gauge
 253. What is the term given to a drilling rig's main power source? 
 Prime Mover
-254. What do drillers use as a relative indicator of how much drilling fluid is returning at the 
-flow line? 
+254. What do drillers use as a relative indicator of how much drilling fluid is returning at the flow line? 
 Mud Return Flow-Rate Indicator
 255. Saturated hydrocarbons, with a general formula CnH2n+2 are known as what? 
 Paraffins or alkanes
@@ -540,7 +537,8 @@ The triple point, equilibrium point
 270. Why are alkanes the main constituents of petroleum gas, as opposed to other hydrocarbons? 
 Because they are the simplest molecules, making them the most stable
 271. Name two of the three performance attributes for evaluation of an underground storage reservoir 
-Verification of inventory, assurance of deliverability, containment against migration. 272. In the field of production, what does the acronym UGS stand for? 
+Verification of inventory, assurance of deliverability, containment against migration. 
+272. In the field of production, what does the acronym UGS stand for? 
 Underground gas storage.
 273. What does the equation Q = PI(Pr - Pwf)? 
 Inflow performance relationship (IPR)

@@ -3,7 +3,7 @@ from qset import Qset
 import sqlite3
 
 
-def collate(filename):
+def collate(filename, bool_val):
     with open(filename, encoding = "utf-8") as file_object:
         '''encoding helps the computer to understand some characters'''
 
@@ -11,9 +11,10 @@ def collate(filename):
         lines = file_object.readlines()
 
         # Testing for errors in compiling data
-        '''while lines:
-            print(lines[0])
-            del lines[0:2]'''
+        if bool_val == True:
+            while lines:
+                print(lines[0])
+                del lines[0:2]
 
         # Creates instances of Qsets and appends them to QUIZ_SET
         while lines:
@@ -21,11 +22,11 @@ def collate(filename):
             QUIZ_SET.append(qset)
             del lines[0:2]
 
-def collation(unrefined = None, refined = None):
+def collation(unrefined = None, refined = None, test = False):
     # Collates unrefined qsets where qsets are sets of files to be collated
     if unrefined != None:
         for qset in unrefined:
-            collate(qset)
+            collate(qset, test)
 
         # Cleaning unrefined qsets 
         for index in QUIZ_SET:
@@ -106,6 +107,7 @@ qset3 = "data/Qset3.txt"
 # Training files
 train_qset1 = "training/qset1.txt"
 train_qset2 = "training/qset2.txt"
+train_qset3 = "training/qset3.txt"
 
 # Existing tables in database
 """QA_Pair""" # Main qset
@@ -115,7 +117,5 @@ train_qset2 = "training/qset2.txt"
 #create_database() 
 """needs fixing (109, 175, 20)"""
 
-#collation(unrefined=[train_qset2])
-update_database(table="QA_Pair_Train", id=186)
-
-
+#collation(unrefined=[train_qset3])
+#update_database(table="QA_Pair_Train", state="add", data=QUIZ_SET)
