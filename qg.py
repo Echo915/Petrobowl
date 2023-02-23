@@ -2,6 +2,8 @@ import random, sqlite3
 
 from qset import Qset
 
+from database import table1, table2, table3
+
 
 def compilations(table):
     with sqlite3.connect("database/database.db") as connection:
@@ -15,8 +17,4 @@ def quizGen():
     quizObject = Qset(random_row[1], random_row[2], id = random_row[0])
     return quizObject
 
-# Tables
-table1 = "QA_Pair" # Full set
-table2 = "QA_Pair_Train" # 400 questions for training
-
-COMPLETE_SET = compilations(table2)
+COMPLETE_SET = compilations(table3)

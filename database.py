@@ -110,12 +110,13 @@ train_qset2 = "training/qset2.txt"
 train_qset3 = "training/qset3.txt"
 
 # Existing tables in database
-"""QA_Pair""" # Main qset
-"QA_Pair_Train" # Breakdown for training
+table1 = "QA_Pair" # Main qset
+table2 = "QA_Pair_Train" # training set 1
+table3 = "QA_Pair_Train_Set2" # training set 2
 
-#collation([train_qset1])
-#create_database() 
+
+#create_database(table=table3) 
 """needs fixing (109, 175, 20)"""
 
 #collation(unrefined=[train_qset3])
-#update_database(table="QA_Pair_Train", state="add", data=QUIZ_SET)
+#update_database(table=table3, state="add", data=QUIZ_SET)

@@ -1,3 +1,6 @@
+# Non-pronounced characters
+escape = []
+
 # Dictionary of terms and abbriviations
 DICTIONARY = {
     "<": "less than",
